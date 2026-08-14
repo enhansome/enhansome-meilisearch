@@ -335,10 +335,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T21:39:58Z",
+            "last_commit": "2026-08-14T15:49:49Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35775
+            "stars": 35813
           }
         },
         {
@@ -391,7 +391,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:58:29Z",
+            "last_commit": "2026-08-14T17:19:24Z",
             "owner": "sanders41",
             "repo": "meilisearch-python-sdk",
             "stars": 98
@@ -988,7 +988,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-07-11T15:51:24Z",
+            "last_commit": "2026-08-14T12:29:00Z",
             "owner": "connorabbas",
             "repo": "meilisearch-manager-next",
             "stars": 2
@@ -1220,10 +1220,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T17:10:48Z",
+            "last_commit": "2026-08-14T09:38:01Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 58960
+            "stars": 58964
           }
         },
         {
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:41:36.499Z",
+    "last_updated": "2026-08-14T23:57:12.810Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
     "enhanced_repository": "enhansome/enhansome-meilisearch",
