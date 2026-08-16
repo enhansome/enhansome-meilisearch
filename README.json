@@ -48,7 +48,7 @@
             "last_commit": "2026-08-11T07:29:15Z",
             "owner": "meilisearch",
             "repo": "meilisearch-php",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-22T08:24:42Z",
             "owner": "meilisearch",
             "repo": "meilisearch-rust",
-            "stars": 431
+            "stars": 432
           }
         },
         {
@@ -104,7 +104,7 @@
             "last_commit": "2026-08-01T11:12:18Z",
             "owner": "meilisearch",
             "repo": "meilisearch-dotnet",
-            "stars": 343
+            "stars": 344
           }
         },
         {
@@ -338,7 +338,7 @@
             "last_commit": "2026-08-15T19:33:52Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35843
+            "stars": 35856
           }
         },
         {
@@ -391,7 +391,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T09:34:02Z",
+            "last_commit": "2026-08-16T13:29:00Z",
             "owner": "sanders41",
             "repo": "meilisearch-python-sdk",
             "stars": 99
@@ -848,7 +848,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-15T20:50:51Z",
+            "last_commit": "2026-08-16T09:42:36Z",
             "owner": "bpolaszek",
             "repo": "meiliweb",
             "stars": 66
@@ -932,7 +932,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-07-21T12:32:16Z",
+            "last_commit": "2026-08-16T18:55:09Z",
             "owner": "Bwilliamson55",
             "repo": "meili-manager",
             "stars": 7
@@ -1223,7 +1223,7 @@
             "last_commit": "2026-08-14T09:38:01Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 58974
+            "stars": 58983
           }
         },
         {
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:53:21.458Z",
+    "last_updated": "2026-08-16T23:53:28.697Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
     "enhanced_repository": "enhansome/enhansome-meilisearch",
