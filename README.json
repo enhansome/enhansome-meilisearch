@@ -62,7 +62,7 @@
             "last_commit": "2026-08-11T21:06:35Z",
             "owner": "meilisearch",
             "repo": "meilisearch-go",
-            "stars": 677
+            "stars": 678
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-10T17:17:17Z",
             "owner": "laravel",
             "repo": "scout",
-            "stars": 1674
+            "stars": 1675
           }
         },
         {
@@ -335,10 +335,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:15:35Z",
+            "last_commit": "2026-08-18T15:00:59Z",
             "owner": "medusajs",
             "repo": "medusa",
-            "stars": 35873
+            "stars": 35896
           }
         },
         {
@@ -391,7 +391,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T17:57:33Z",
+            "last_commit": "2026-08-18T20:01:06Z",
             "owner": "sanders41",
             "repo": "meilisearch-python-sdk",
             "stars": 99
@@ -489,7 +489,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T22:33:11Z",
+            "last_commit": "2026-08-18T18:32:45Z",
             "owner": "oplik0",
             "repo": "nodebb-plugin-meilisearch",
             "stars": 15
@@ -747,7 +747,7 @@
             "last_commit": "2026-02-10T23:51:48Z",
             "owner": "meilisearch",
             "repo": "docs-scraper",
-            "stars": 345
+            "stars": 346
           }
         },
         {
@@ -806,7 +806,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T18:14:52Z",
+            "last_commit": "2026-08-18T01:35:06Z",
             "owner": "tauri-apps",
             "repo": "meilisearch-docsearch",
             "stars": 173
@@ -848,7 +848,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vue",
-            "last_commit": "2026-08-17T06:48:31Z",
+            "last_commit": "2026-08-18T17:25:29Z",
             "owner": "bpolaszek",
             "repo": "meiliweb",
             "stars": 66
@@ -1223,7 +1223,7 @@
             "last_commit": "2026-08-14T09:38:01Z",
             "owner": "meilisearch",
             "repo": "meilisearch",
-            "stars": 58996
+            "stars": 59009
           }
         },
         {
@@ -1259,7 +1259,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:55:32.247Z",
+    "last_updated": "2026-08-18T23:55:24.627Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
     "enhanced_repository": "enhansome/enhansome-meilisearch",
