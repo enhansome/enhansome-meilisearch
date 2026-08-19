@@ -206,7 +206,7 @@
                     "last_commit": "2026-08-06T13:11:08Z",
                     "owner": "meilisearch",
                     "repo": "meilisearch-symfony",
-                    "stars": 153
+                    "stars": 154
                   }
                 }
               ],
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:35:36Z",
+                "last_commit": "2026-08-19T23:28:31Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35908
+                "stars": 35913
               }
             },
             {
@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 380803457,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:39:25Z",
+                "last_commit": "2026-08-19T12:43:26Z",
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
                 "stars": 99
@@ -908,7 +908,7 @@
                 "archived": false,
                 "id": 784734448,
                 "language": "Vue",
-                "last_commit": "2026-08-19T07:12:33Z",
+                "last_commit": "2026-08-19T16:58:30Z",
                 "owner": "bpolaszek",
                 "repo": "meiliweb",
                 "stars": 66
@@ -1305,7 +1305,7 @@
                 "last_commit": "2026-08-14T09:38:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59013
+                "stars": 59017
               }
             },
             {
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:46.926Z",
+    "last_updated": "2026-08-19T23:55:33.341Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_id": 414515727,
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
