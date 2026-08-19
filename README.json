@@ -1,1029 +1,1106 @@
 {
   "items": [
     {
-      "description": "Please take a look at the Contribution Guidelines",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "Learn Meilisearch",
-      "items": [],
-      "title": "Guides, Tutorials and Courses"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Official Guides"
-    },
-    {
       "description": "Meilisearch integrations created by Meilisearch or the community",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "JavaScript",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 212378409,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-11T07:40:36Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-js",
+                    "stars": 869
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PHP",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 228859550,
+                    "language": "PHP",
+                    "last_commit": "2026-08-11T07:29:15Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-php",
+                    "stars": 757
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Golang",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 226735754,
+                    "language": "Go",
+                    "last_commit": "2026-08-11T21:06:35Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-go",
+                    "stars": 678
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Python",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 225885766,
+                    "language": "Python",
+                    "last_commit": "2026-08-01T09:42:55Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-python",
+                    "stars": 600
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rust",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 260656751,
+                    "language": "Rust",
+                    "last_commit": "2026-07-22T08:24:42Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-rust",
+                    "stars": 432
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ".Net",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 266504469,
+                    "language": "C#",
+                    "last_commit": "2026-08-01T11:12:18Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-dotnet",
+                    "stars": 344
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Java",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 237707489,
+                    "language": "Java",
+                    "last_commit": "2026-08-11T03:41:58Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-java",
+                    "stars": 247
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ruby",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 222446809,
+                    "language": "Ruby",
+                    "last_commit": "2026-07-01T04:02:48Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-ruby",
+                    "stars": 224
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Swift",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 252325176,
+                    "language": "Swift",
+                    "last_commit": "2026-07-07T01:28:21Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-swift",
+                    "stars": 96
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dart",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 319059109,
+                    "language": "Dart",
+                    "last_commit": "2026-08-01T14:12:26Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-dart",
+                    "stars": 88
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "SDK"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Laravel",
+                  "description": "Official Laravel-Scout package",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62261287,
+                    "language": "PHP",
+                    "last_commit": "2026-08-10T17:17:17Z",
+                    "owner": "laravel",
+                    "repo": "scout",
+                    "stars": 1676
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ruby on Rails",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 338307278,
+                    "language": "Ruby",
+                    "last_commit": "2026-07-07T02:41:26Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-rails",
+                    "stars": 358
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Symfony",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275707200,
+                    "language": "PHP",
+                    "last_commit": "2026-08-06T13:11:08Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-symfony",
+                    "stars": 153
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Framework Integrations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "React",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 277836190,
+                    "language": null,
+                    "last_commit": "2026-02-26T22:35:41Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-react",
+                    "stars": 215
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Vue",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 277852835,
+                    "language": null,
+                    "last_commit": "2026-02-26T22:36:40Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-vue",
+                    "stars": 167
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Angular",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 337682374,
+                    "language": null,
+                    "last_commit": "2026-02-26T09:24:42Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-angular",
+                    "stars": 24
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Front-End Integrations"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Strapi",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 339328481,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-12T09:06:26Z",
+                    "owner": "meilisearch",
+                    "repo": "strapi-plugin-meilisearch",
+                    "stars": 244
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Firestore",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 395368355,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-27T00:41:25Z",
+                    "owner": "meilisearch",
+                    "repo": "firestore-meilisearch",
+                    "stars": 90
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "VuePress",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 254041626,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-22T00:26:46Z",
+                    "owner": "meilisearch",
+                    "repo": "vuepress-plugin-meilisearch",
+                    "stars": 65
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Gatsby",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 379289140,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-26T22:33:32Z",
+                    "owner": "meilisearch",
+                    "repo": "gatsby-plugin-meilisearch",
+                    "stars": 38
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Platform Plugins"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Medusa",
+              "description": "Plugin for Medusa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 234739976,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:35:36Z",
+                "owner": "medusajs",
+                "repo": "medusa",
+                "stars": 35908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meilisync",
+              "description": "Real time data sync from MySQL, PostgreSQL, or MongoDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606779235,
+                "language": "Python",
+                "last_commit": "2026-05-17T15:27:03Z",
+                "owner": "long2ice",
+                "repo": "meilisync",
+                "stars": 385
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nuxt",
+              "description": "A Nuxt 3 module",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489500112,
+                "language": "TypeScript",
+                "last_commit": "2026-07-06T09:47:44Z",
+                "owner": "xlanex6",
+                "repo": "nuxt-meilisearch",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yii2",
+              "description": "Yii2 framework extension",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457685505,
+                "language": "PHP",
+                "last_commit": "2022-02-21T14:59:27Z",
+                "owner": "zhuzixian520",
+                "repo": "yii2-meilisearch",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Async Python SDK",
+              "description": "An asynchronous Python client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380803457,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:39:25Z",
+                "owner": "sanders41",
+                "repo": "meilisearch-python-sdk",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-meili",
+              "description": "Django integration with Meilisearch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 703009338,
+                "language": "Python",
+                "last_commit": "2026-02-25T16:28:49Z",
+                "owner": "ikollipara",
+                "repo": "django-meili",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastAPI",
+              "description": "Provides FastAPI routes for interacting with Meilisearch",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 365662323,
+                "language": "Python",
+                "last_commit": "2025-08-26T15:13:17Z",
+                "owner": "sanders41",
+                "repo": "meilisearch-fastapi",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elixir",
+              "description": "A lightweight Elixir client",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 250683222,
+                "language": "Elixir",
+                "last_commit": "2025-02-04T20:51:45Z",
+                "owner": "robottokauf3",
+                "repo": "meilisearch-elixir",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Payload Meilisearch Plugin",
+              "description": "An integration plugin for Payload CMS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606341828,
+                "language": "TypeScript",
+                "last_commit": "2023-05-29T10:04:00Z",
+                "owner": "NouanceLabs",
+                "repo": "payload-meilisearch",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARCHIVED: MongoMeili - Sync MongooseJS Schemas with Meilisearch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 303872449,
+                "language": "JavaScript",
+                "last_commit": "2021-08-29T19:30:31Z",
+                "owner": "Loophole-Labs-Archive",
+                "repo": "mongomeili",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Spring Data Meilisearch",
+              "description": "Spring Data Implementation for Meilisearch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629395220,
+                "language": "Java",
+                "last_commit": "2026-06-27T13:54:26Z",
+                "owner": "junghoon-vans",
+                "repo": "spring-data-meilisearch",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plugin for NodeBB",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 531557858,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T18:32:45Z",
+                "owner": "oplik0",
+                "repo": "nodebb-plugin-meilisearch",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YunoHost",
+              "description": "Meilisearch on a YunoHost server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264263444,
+                "language": "Shell",
+                "last_commit": "2026-08-17T19:50:09Z",
+                "owner": "YunoHost-Apps",
+                "repo": "meilisearch_ynh",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meilisearch.st",
+              "description": "A client for Smalltalk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656953066,
+                "language": "Smalltalk",
+                "last_commit": "2026-08-02T13:56:52Z",
+                "owner": "mumez",
+                "repo": "Meilisearch.st",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kotlin",
+              "description": "A Kotlin wrapper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 480784790,
+                "language": "Kotlin",
+                "last_commit": "2025-02-26T06:44:43Z",
+                "owner": "nemoengineering",
+                "repo": "meilisearch-kotlin",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nest-MeiliSearch",
+              "description": "A NestJS wrapper for the JavaScript integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552090159,
+                "language": "TypeScript",
+                "last_commit": "2022-10-16T11:07:19Z",
+                "owner": "Console45",
+                "repo": "nest-meilisearch",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-meilisearch-indexer",
+              "description": "Meilisearch indexer for django models and related utilities",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 879070099,
+                "language": "Python",
+                "last_commit": "2025-09-01T06:22:35Z",
+                "owner": "Jordan-Kowal",
+                "repo": "django-meilisearch-indexer",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D",
+              "description": "A Meilisearch API for D",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322444479,
+                "language": "D",
+                "last_commit": "2020-12-28T22:23:27Z",
+                "owner": "aberba",
+                "repo": "meilisearch",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Craft CMS",
+              "description": "Plugin for Craft CMS 3.x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327713223,
+                "language": "PHP",
+                "last_commit": "2025-11-04T17:11:48Z",
+                "owner": "unionco",
+                "repo": "craft-meilisearch",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meilisearch Light PHP Client",
+              "description": "A library for using a server in PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 505119670,
+                "language": "PHP",
+                "last_commit": "2023-03-25T19:56:40Z",
+                "owner": "shevabam",
+                "repo": "meilisearch-light-php-client",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meili Ktr",
+              "description": "A multiplatform Kotlin client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 423526557,
+                "language": "Kotlin",
+                "last_commit": "2021-12-02T00:05:11Z",
+                "owner": "jhrldev",
+                "repo": "meili-ktr",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cbMeilisearch",
+              "description": "An API wrapper written in CFML for the ColdBox platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533956489,
+                "language": "ColdFusion",
+                "last_commit": "2023-03-07T05:34:38Z",
+                "owner": "michaelborn",
+                "repo": "cbmeilisearch",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Integrations"
+        }
+      ],
       "title": "Integrations"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "JavaScript",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T07:40:36Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-js",
-            "stars": 869
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PHP",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-11T07:29:15Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-php",
-            "stars": 756
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Golang",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-11T21:06:35Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-go",
-            "stars": 678
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Python",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T09:42:55Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-python",
-            "stars": 600
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-22T08:24:42Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-rust",
-            "stars": 432
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ".Net",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-01T11:12:18Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-dotnet",
-            "stars": 344
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-11T03:41:58Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-java",
-            "stars": 247
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-01T04:02:48Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-ruby",
-            "stars": 224
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-07-07T01:28:21Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-swift",
-            "stars": 96
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dart",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2026-08-01T14:12:26Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-dart",
-            "stars": 88
-          }
-        }
-      ],
-      "title": "SDK"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Laravel",
-          "description": "Official Laravel-Scout package",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-10T17:17:17Z",
-            "owner": "laravel",
-            "repo": "scout",
-            "stars": 1675
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruby on Rails",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-07T02:41:26Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-rails",
-            "stars": 358
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Symfony",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-06T13:11:08Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-symfony",
-            "stars": 153
-          }
-        }
-      ],
-      "title": "Framework Integrations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "React",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-02-26T22:35:41Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-react",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vue",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-02-26T22:36:40Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-vue",
-            "stars": 167
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Angular",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2026-02-26T09:24:42Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-angular",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Front-End Integrations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Strapi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T09:06:26Z",
-            "owner": "meilisearch",
-            "repo": "strapi-plugin-meilisearch",
-            "stars": 244
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Firestore",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-27T00:41:25Z",
-            "owner": "meilisearch",
-            "repo": "firestore-meilisearch",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VuePress",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-01-22T00:26:46Z",
-            "owner": "meilisearch",
-            "repo": "vuepress-plugin-meilisearch",
-            "stars": 65
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gatsby",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-02-26T22:33:32Z",
-            "owner": "meilisearch",
-            "repo": "gatsby-plugin-meilisearch",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "Platform Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Medusa",
-          "description": "Plugin for Medusa",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T15:00:59Z",
-            "owner": "medusajs",
-            "repo": "medusa",
-            "stars": 35896
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisync",
-          "description": "Real time data sync from MySQL, PostgreSQL, or MongoDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-17T15:27:03Z",
-            "owner": "long2ice",
-            "repo": "meilisync",
-            "stars": 385
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nuxt",
-          "description": "A Nuxt 3 module",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-06T09:47:44Z",
-            "owner": "xlanex6",
-            "repo": "nuxt-meilisearch",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yii2",
-          "description": "Yii2 framework extension",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2022-02-21T14:59:27Z",
-            "owner": "zhuzixian520",
-            "repo": "yii2-meilisearch",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Async Python SDK",
-          "description": "An asynchronous Python client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:01:06Z",
-            "owner": "sanders41",
-            "repo": "meilisearch-python-sdk",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-meili",
-          "description": "Django integration with Meilisearch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-25T16:28:49Z",
-            "owner": "ikollipara",
-            "repo": "django-meili",
-            "stars": 85
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastAPI",
-          "description": "Provides FastAPI routes for interacting with Meilisearch",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-08-26T15:13:17Z",
-            "owner": "sanders41",
-            "repo": "meilisearch-fastapi",
-            "stars": 50
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elixir",
-          "description": "A lightweight Elixir client",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Elixir",
-            "last_commit": "2025-02-04T20:51:45Z",
-            "owner": "robottokauf3",
-            "repo": "meilisearch-elixir",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Payload Meilisearch Plugin",
-          "description": "An integration plugin for Payload CMS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-29T10:04:00Z",
-            "owner": "NouanceLabs",
-            "repo": "payload-meilisearch",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ARCHIVED: MongoMeili - Sync MongooseJS Schemas with Meilisearch",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-08-29T19:30:31Z",
-            "owner": "Loophole-Labs-Archive",
-            "repo": "mongomeili",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Spring Data Meilisearch",
-          "description": "Spring Data Implementation for Meilisearch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-27T13:54:26Z",
-            "owner": "junghoon-vans",
-            "repo": "spring-data-meilisearch",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plugin for NodeBB",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T18:32:45Z",
-            "owner": "oplik0",
-            "repo": "nodebb-plugin-meilisearch",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YunoHost",
-          "description": "Meilisearch on a YunoHost server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T19:50:09Z",
-            "owner": "YunoHost-Apps",
-            "repo": "meilisearch_ynh",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meilisearch.st",
-          "description": "A client for Smalltalk",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Smalltalk",
-            "last_commit": "2026-08-02T13:56:52Z",
-            "owner": "mumez",
-            "repo": "Meilisearch.st",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kotlin",
-          "description": "A Kotlin wrapper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2025-02-26T06:44:43Z",
-            "owner": "nemoengineering",
-            "repo": "meilisearch-kotlin",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nest-MeiliSearch",
-          "description": "A NestJS wrapper for the JavaScript integration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-10-16T11:07:19Z",
-            "owner": "Console45",
-            "repo": "nest-meilisearch",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-meilisearch-indexer",
-          "description": "Meilisearch indexer for django models and related utilities",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-09-01T06:22:35Z",
-            "owner": "Jordan-Kowal",
-            "repo": "django-meilisearch-indexer",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D",
-          "description": "A Meilisearch API for D",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "D",
-            "last_commit": "2020-12-28T22:23:27Z",
-            "owner": "aberba",
-            "repo": "meilisearch",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Craft CMS",
-          "description": "Plugin for Craft CMS 3.x",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2025-11-04T17:11:48Z",
-            "owner": "unionco",
-            "repo": "craft-meilisearch",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meilisearch Light PHP Client",
-          "description": "A library for using a server in PHP",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2023-03-25T19:56:40Z",
-            "owner": "shevabam",
-            "repo": "meilisearch-light-php-client",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meili Ktr",
-          "description": "A multiplatform Kotlin client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2021-12-02T00:05:11Z",
-            "owner": "jhrldev",
-            "repo": "meili-ktr",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cbMeilisearch",
-          "description": "An API wrapper written in CFML for the ColdBox platform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "ColdFusion",
-            "last_commit": "2023-03-07T05:34:38Z",
-            "owner": "michaelborn",
-            "repo": "cbmeilisearch",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Community Integrations"
-    },
-    {
       "description": "Tools created by Meilisearch or the community",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "meilisearch-kubernetes",
+                  "description": "Deploy on Kubernetes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 276347473,
+                    "language": "Mustache",
+                    "last_commit": "2026-08-13T20:37:29Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-kubernetes",
+                    "stars": 277
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "meilisearch-digitalocean",
+                  "description": "Deploy on DigitalOcean",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 256211526,
+                    "language": "Python",
+                    "last_commit": "2023-05-09T15:56:57Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-digitalocean",
+                    "stars": 24
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "meilisearch-aws",
+                  "description": "Deploy on AWS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 319680570,
+                    "language": "Python",
+                    "last_commit": "2023-05-09T15:52:03Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-aws",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "meilisearch-gcp",
+                  "description": "Deploy on GCP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 344096475,
+                    "language": "Python",
+                    "last_commit": "2023-05-09T15:38:38Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-gcp",
+                    "stars": 20
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Cloud Scripts",
+                  "description": "A set of cloud-agnostic tools and scripts to improve deployment on the cloud",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 327310511,
+                    "language": "Shell",
+                    "last_commit": "2023-05-09T18:34:47Z",
+                    "owner": "meilisearch",
+                    "repo": "cloud-scripts",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "DevOps Tools"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "instant-meilisearch",
+                  "description": "A plugin to establish the communication between Meilisearch and the open-source InstantSearch tools (powered by Algolia)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 281634568,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-01T17:44:20Z",
+                    "owner": "meilisearch",
+                    "repo": "meilisearch-js-plugins",
+                    "stars": 532
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "docs-scraper",
+                  "description": "A scraper tool to automatically read the content of your documentation and store it into Meilisearch.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 243727994,
+                    "language": "Python",
+                    "last_commit": "2026-02-10T23:51:48Z",
+                    "owner": "meilisearch",
+                    "repo": "docs-scraper",
+                    "stars": 346
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "docs-searchbar.js",
+                  "description": "A search bar integration for all kinds of documentation",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 241083947,
+                    "language": "JavaScript",
+                    "last_commit": "2026-02-01T21:02:41Z",
+                    "owner": "meilisearch",
+                    "repo": "docs-searchbar.js",
+                    "stars": 182
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Miscellaneous"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meilisearch-UI",
+              "description": "A dashboard / UI to manage instances",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 529870579,
+                "language": "TypeScript",
+                "last_commit": "2026-02-04T03:56:59Z",
+                "owner": "eyeix",
+                "repo": "meilisearch-ui",
+                "stars": 767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel Site Search",
+              "description": "Create a full-text search index by crawling your site",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 406259242,
+                "language": "PHP",
+                "last_commit": "2026-06-10T07:56:21Z",
+                "owner": "spatie",
+                "repo": "laravel-site-search",
+                "stars": 308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meilisearch-docsearch",
+              "description": "A quick search component for Meilisearch, inspired by algolia/docsearch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594897696,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T01:35:06Z",
+                "owner": "tauri-apps",
+                "repo": "meilisearch-docsearch",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meiliadmin",
+              "description": "A dashboard for Meilisearch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328148021,
+                "language": "JavaScript",
+                "last_commit": "2026-04-24T23:34:15Z",
+                "owner": "kaermorchen",
+                "repo": "meiliadmin",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel MeiliTools",
+              "description": "Additional tools for Laravel Scout 9+ integration",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 485717015,
+                "language": "PHP",
+                "last_commit": "2026-06-22T22:04:19Z",
+                "owner": "dwarfhq",
+                "repo": "laravel-meilitools",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meiliweb",
+              "description": "Yet another dashboard / UI for Meilisearch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 784734448,
+                "language": "Vue",
+                "last_commit": "2026-08-19T07:12:33Z",
+                "owner": "bpolaszek",
+                "repo": "meiliweb",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UIRecord",
+              "description": "A UI to manage instances",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430189527,
+                "language": "JavaScript",
+                "last_commit": "2022-03-14T17:05:46Z",
+                "owner": "SaraVieira",
+                "repo": "uirecord",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mieli",
+              "description": "A wrapper",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 400577370,
+                "language": "Rust",
+                "last_commit": "2025-06-06T21:40:07Z",
+                "owner": "irevoire",
+                "repo": "mieli",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meilisearch TUI",
+              "description": "A text user interface for searching and managing Meilisearch from the terminal",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 620556119,
+                "language": "Python",
+                "last_commit": "2025-08-26T15:03:08Z",
+                "owner": "sanders41",
+                "repo": "meilisearch-tui",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meilisearch-helper",
+              "description": "A helper library for meilisearch-js that simplifies development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 805723572,
+                "language": "JavaScript",
+                "last_commit": "2025-11-18T04:25:13Z",
+                "owner": "CodyTseng",
+                "repo": "meilisearch-helper",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meilisearch CLI",
+              "description": "A CLI",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 418227796,
+                "language": "Python",
+                "last_commit": "2024-08-01T16:34:58Z",
+                "owner": "sanders41",
+                "repo": "meilisearch-cli",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meili-Manager",
+              "description": "A UI to manage instances",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 594425627,
+                "language": "Vue",
+                "last_commit": "2026-08-16T18:55:09Z",
+                "owner": "Bwilliamson55",
+                "repo": "meili-manager",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "meilisearch-prompt",
+              "description": "A command-line kit to manage a Meilisearch server",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478401091,
+                "language": "Go",
+                "last_commit": "2022-04-17T07:31:15Z",
+                "owner": "leopku",
+                "repo": "meilisearch-prompt",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meilisearch GitHub Action",
+              "description": "Start a Meilisearch server from your GH Actions with this action",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 466485528,
+                "language": "Shell",
+                "last_commit": "2022-07-17T16:35:22Z",
+                "owner": "moy2010",
+                "repo": "meilisearch-github-action",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AIO_MEILISEARCH",
+              "description": "Async Wrapper over Meilisearch REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325639894,
+                "language": "Python",
+                "last_commit": "2021-01-03T15:35:01Z",
+                "owner": "devtud",
+                "repo": "aio_meilisearch",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Meilisearch Manager",
+              "description": "A UI to manage instances",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1201236197,
+                "language": "Vue",
+                "last_commit": "2026-08-15T14:35:17Z",
+                "owner": "connorabbas",
+                "repo": "meilisearch-manager",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Testcontainers Meilisearch",
+              "description": "A Testcontainers community module for Meilisearch",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 667329198,
+                "language": "Java",
+                "last_commit": "2026-05-09T15:00:35Z",
+                "owner": "junghoon-vans",
+                "repo": "testcontainers-meilisearch",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytest-meilisearch",
+              "description": "A pytest plugin to help with testing in projects using Python",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 710790095,
+                "language": "Python",
+                "last_commit": "2026-01-01T01:57:38Z",
+                "owner": "sanders41",
+                "repo": "pytest-meilisearch",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community Tools"
+        }
+      ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "meilisearch-kubernetes",
-          "description": "Deploy on Kubernetes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Mustache",
-            "last_commit": "2026-08-13T20:37:29Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-kubernetes",
-            "stars": 277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisearch-digitalocean",
-          "description": "Deploy on DigitalOcean",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-05-09T15:56:57Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-digitalocean",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisearch-aws",
-          "description": "Deploy on AWS",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-05-09T15:52:03Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-aws",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisearch-gcp",
-          "description": "Deploy on GCP",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-05-09T15:38:38Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-gcp",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cloud Scripts",
-          "description": "A set of cloud-agnostic tools and scripts to improve deployment on the cloud",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Shell",
-            "last_commit": "2023-05-09T18:34:47Z",
-            "owner": "meilisearch",
-            "repo": "cloud-scripts",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "DevOps Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "instant-meilisearch",
-          "description": "A plugin to establish the communication between Meilisearch and the open-source InstantSearch tools (powered by Algolia)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-01T17:44:20Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch-js-plugins",
-            "stars": 532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docs-scraper",
-          "description": "A scraper tool to automatically read the content of your documentation and store it into Meilisearch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-10T23:51:48Z",
-            "owner": "meilisearch",
-            "repo": "docs-scraper",
-            "stars": 346
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "docs-searchbar.js",
-          "description": "A search bar integration for all kinds of documentation",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2026-02-01T21:02:41Z",
-            "owner": "meilisearch",
-            "repo": "docs-searchbar.js",
-            "stars": 182
-          }
-        }
-      ],
-      "title": "Miscellaneous"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Meilisearch-UI",
-          "description": "A dashboard / UI to manage instances",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-04T03:56:59Z",
-            "owner": "eyeix",
-            "repo": "meilisearch-ui",
-            "stars": 767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laravel Site Search",
-          "description": "Create a full-text search index by crawling your site",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-10T07:56:21Z",
-            "owner": "spatie",
-            "repo": "laravel-site-search",
-            "stars": 308
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisearch-docsearch",
-          "description": "A quick search component for Meilisearch, inspired by algolia/docsearch.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T01:35:06Z",
-            "owner": "tauri-apps",
-            "repo": "meilisearch-docsearch",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meiliadmin",
-          "description": "A dashboard for Meilisearch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-04-24T23:34:15Z",
-            "owner": "kaermorchen",
-            "repo": "meiliadmin",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Laravel MeiliTools",
-          "description": "Additional tools for Laravel Scout 9+ integration",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-06-22T22:04:19Z",
-            "owner": "dwarfhq",
-            "repo": "laravel-meilitools",
-            "stars": 100
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meiliweb",
-          "description": "Yet another dashboard / UI for Meilisearch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-18T17:25:29Z",
-            "owner": "bpolaszek",
-            "repo": "meiliweb",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UIRecord",
-          "description": "A UI to manage instances",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-03-14T17:05:46Z",
-            "owner": "SaraVieira",
-            "repo": "uirecord",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mieli",
-          "description": "A wrapper",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-06-06T21:40:07Z",
-            "owner": "irevoire",
-            "repo": "mieli",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meilisearch TUI",
-          "description": "A text user interface for searching and managing Meilisearch from the terminal",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-08-26T15:03:08Z",
-            "owner": "sanders41",
-            "repo": "meilisearch-tui",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisearch-helper",
-          "description": "A helper library for meilisearch-js that simplifies development",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-11-18T04:25:13Z",
-            "owner": "CodyTseng",
-            "repo": "meilisearch-helper",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meilisearch CLI",
-          "description": "A CLI",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-08-01T16:34:58Z",
-            "owner": "sanders41",
-            "repo": "meilisearch-cli",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meili-Manager",
-          "description": "A UI to manage instances",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-16T18:55:09Z",
-            "owner": "Bwilliamson55",
-            "repo": "meili-manager",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "meilisearch-prompt",
-          "description": "A command-line kit to manage a Meilisearch server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-04-17T07:31:15Z",
-            "owner": "leopku",
-            "repo": "meilisearch-prompt",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meilisearch GitHub Action",
-          "description": "Start a Meilisearch server from your GH Actions with this action",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-07-17T16:35:22Z",
-            "owner": "moy2010",
-            "repo": "meilisearch-github-action",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AIO_MEILISEARCH",
-          "description": "Async Wrapper over Meilisearch REST API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-03T15:35:01Z",
-            "owner": "devtud",
-            "repo": "aio_meilisearch",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Meilisearch Manager",
-          "description": "A UI to manage instances",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-08-15T14:35:17Z",
-            "owner": "connorabbas",
-            "repo": "meilisearch-manager",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Testcontainers Meilisearch",
-          "description": "A Testcontainers community module for Meilisearch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-09T15:00:35Z",
-            "owner": "junghoon-vans",
-            "repo": "testcontainers-meilisearch",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pytest-meilisearch",
-          "description": "A pytest plugin to help with testing in projects using Python",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-01-01T01:57:38Z",
-            "owner": "sanders41",
-            "repo": "pytest-meilisearch",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Community Tools"
     },
     {
       "description": "See Meilisearch in action",
@@ -1035,6 +1112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 595979755,
             "language": "Vue",
             "last_commit": "2025-09-01T08:07:56Z",
             "owner": "meilisearch",
@@ -1049,6 +1127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648269514,
             "language": "PHP",
             "last_commit": "2025-09-01T08:09:33Z",
             "owner": "meilisearch",
@@ -1063,6 +1142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1077,6 +1157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1091,6 +1172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1105,6 +1187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1119,6 +1202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1133,6 +1217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1147,6 +1232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1161,6 +1247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1175,6 +1262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345802860,
             "language": "CoffeeScript",
             "last_commit": "2026-05-20T17:34:00Z",
             "owner": "meilisearch",
@@ -1189,6 +1277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420939528,
             "language": "JavaScript",
             "last_commit": "2026-03-01T22:41:11Z",
             "owner": "meilisearch",
@@ -1200,67 +1289,68 @@
       "title": "Demos"
     },
     {
-      "description": "Read what the Meilisearch's team has written or what others say about us",
-      "items": [],
-      "title": "Blog Posts"
-    },
-    {
       "description": "Various resources",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Meilisearch",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Meilisearch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130688011,
+                "language": "Rust",
+                "last_commit": "2026-08-14T09:38:01Z",
+                "owner": "meilisearch",
+                "repo": "meilisearch",
+                "stars": 59013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "milli",
+              "description": "Meilisearch's core engine",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 268274269,
+                "language": "Rust",
+                "last_commit": "2023-04-04T11:21:46Z",
+                "owner": "meilisearch",
+                "repo": "milli",
+                "stars": 466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Product repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 359812205,
+                "language": null,
+                "last_commit": "2023-10-23T17:47:08Z",
+                "owner": "meilisearch",
+                "repo": "product",
+                "stars": 56
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T09:38:01Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch",
-            "stars": 59009
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "milli",
-          "description": "Meilisearch's core engine",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2023-04-04T11:21:46Z",
-            "owner": "meilisearch",
-            "repo": "milli",
-            "stars": 466
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Product repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-10-23T17:47:08Z",
-            "owner": "meilisearch",
-            "repo": "product",
-            "stars": 56
-          }
+          "node_type": "group",
+          "title": "Repositories"
         }
       ],
-      "title": "Repositories"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T23:55:24.627Z",
+    "last_updated": "2026-08-19T12:41:46.926Z",
     "original_repository": "meilisearch/awesome-meilisearch",
+    "original_repository_id": 414515727,
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
     "enhanced_repository": "enhansome/enhansome-meilisearch",
     "enhanced_repository_description": null,
