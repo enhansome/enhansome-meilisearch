@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-01T09:42:55Z",
                     "owner": "meilisearch",
                     "repo": "meilisearch-python",
-                    "stars": 600
+                    "stars": 601
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-08-11T03:41:58Z",
                     "owner": "meilisearch",
                     "repo": "meilisearch-java",
-                    "stars": 247
+                    "stars": 246
                   }
                 },
                 {
@@ -349,10 +349,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T21:26:23Z",
+                "last_commit": "2026-08-21T20:25:02Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35926
+                "stars": 35939
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2026-05-17T15:27:03Z",
                 "owner": "long2ice",
                 "repo": "meilisync",
-                "stars": 385
+                "stars": 386
               }
             },
             {
@@ -409,7 +409,7 @@
                 "archived": false,
                 "id": 380803457,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:45:23Z",
+                "last_commit": "2026-08-21T12:43:40Z",
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
                 "stars": 99
@@ -514,7 +514,7 @@
                 "archived": false,
                 "id": 531557858,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T18:32:45Z",
+                "last_commit": "2026-08-21T22:29:34Z",
                 "owner": "oplik0",
                 "repo": "nodebb-plugin-meilisearch",
                 "stars": 15
@@ -1305,7 +1305,7 @@
                 "last_commit": "2026-08-14T09:38:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59033
+                "stars": 59046
               }
             },
             {
@@ -1348,7 +1348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:57:06.207Z",
+    "last_updated": "2026-08-21T23:56:19.792Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_id": 414515727,
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
