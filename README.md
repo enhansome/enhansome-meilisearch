@@ -103,9 +103,9 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 758 | 🐛 61 | 🌐 PHP | 📅 2026-08-11
 * [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 678 | 🐛 6 | 🌐 Go | 📅 2026-08-11
 * [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 602 | 🐛 18 | 🌐 Python | 📅 2026-08-01
-* [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 432 | 🐛 68 | 🌐 Rust | 📅 2026-07-22
+* [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 433 | 🐛 68 | 🌐 Rust | 📅 2026-07-22
 * [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 344 | 🐛 73 | 🌐 C# | 📅 2026-08-01
-* [Java](https://github.com/meilisearch/meilisearch-java) ⭐ 246 | 🐛 47 | 🌐 Java | 📅 2026-08-11
+* [Java](https://github.com/meilisearch/meilisearch-java) ⭐ 245 | 🐛 47 | 🌐 Java | 📅 2026-08-11
 * [Ruby](https://github.com/meilisearch/meilisearch-ruby) ⭐ 224 | 🐛 38 | 🌐 Ruby | 📅 2026-07-01
 * [Swift](https://github.com/meilisearch/meilisearch-swift) ⭐ 96 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 * [Dart](https://github.com/meilisearch/meilisearch-dart) ⭐ 88 | 🐛 58 | 🌐 Dart | 📅 2026-08-01
@@ -131,7 +131,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 35,954 | 🐛 172 | 🌐 TypeScript | 📅 2026-08-21 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 35,969 | 🐛 175 | 🌐 TypeScript | 📅 2026-08-23 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 386 | 🐛 54 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -139,7 +139,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) ⭐ 116 | 🐛 0 | 🌐 PHP | 📅 2022-02-21 - Yii2 framework extension
 
-* [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2026-08-22 - An asynchronous Python client
+* [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2026-08-23 - An asynchronous Python client
 
 * [django-meili](https://github.com/ikollipara/django-meili) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2026-02-25 - Django integration with Meilisearch
 
@@ -211,9 +211,9 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Tools
 
-* [Meilisearch-UI](https://github.com/eyeix/meilisearch-ui) ⭐ 768 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-04 -  A dashboard / UI to manage instances
+* [Meilisearch-UI](https://github.com/eyeix/meilisearch-ui) ⭐ 769 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-04 -  A dashboard / UI to manage instances
 * [Laravel Site Search](https://github.com/spatie/laravel-site-search/) ⭐ 308 | 🐛 0 | 🌐 PHP | 📅 2026-06-10 - Create a full-text search index by crawling your site
-* [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) ⭐ 174 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-18 - A quick search component for Meilisearch, inspired by algolia/docsearch.
+* [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) ⭐ 174 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-23 - A quick search component for Meilisearch, inspired by algolia/docsearch.
 * [Meiliadmin](https://github.com/kaermorchen/meiliadmin) ⭐ 108 | 🐛 20 | 🌐 JavaScript | 📅 2026-04-24 - A dashboard for Meilisearch
 * [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) ⭐ 100 | 🐛 3 | 🌐 PHP | 📅 2026-06-22 - Additional tools for Laravel Scout 9+ integration
 * [Meiliweb](https://github.com/bpolaszek/meiliweb) ⭐ 67 | 🐛 1 | 🌐 Vue | 📅 2026-08-19 - Yet another dashboard / UI for Meilisearch
@@ -284,7 +284,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,056 | 🐛 311 | 🌐 Rust | 📅 2026-08-14
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,064 | 🐛 312 | 🌐 Rust | 📅 2026-08-14
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 56 | 🐛 29 | 📅 2023-10-23
 
@@ -320,4 +320,4 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
