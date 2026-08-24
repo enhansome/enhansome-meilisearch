@@ -6,6 +6,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Meilisearch official Integrations",
+              "description": "Central reference for Meilisearch integrations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 254149837,
+                "language": "Shell",
+                "last_commit": "2026-02-26T22:51:47Z",
+                "owner": "meilisearch",
+                "repo": "integration-guides",
+                "stars": 158
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -349,10 +364,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T09:10:33Z",
+                "last_commit": "2026-08-24T14:20:45Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35969
+                "stars": 35978
               }
             },
             {
@@ -409,7 +424,7 @@
                 "archived": false,
                 "id": 380803457,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:02:44Z",
+                "last_commit": "2026-08-24T14:33:32Z",
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
                 "stars": 99
@@ -684,6 +699,21 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Meilisearch Version Migration Script",
+              "description": "A script to migrate to a newer version without losing data nor settings",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 409565500,
+                "language": "Shell",
+                "last_commit": "2026-01-19T17:41:48Z",
+                "owner": "meilisearch",
+                "repo": "meilisearch-migration",
+                "stars": 40
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -836,7 +866,7 @@
                 "last_commit": "2026-02-04T03:56:59Z",
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
-                "stars": 769
+                "stars": 770
               }
             },
             {
@@ -1305,7 +1335,7 @@
                 "last_commit": "2026-08-14T09:38:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59064
+                "stars": 59074
               }
             },
             {
@@ -1348,7 +1378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:54:36.890Z",
+    "last_updated": "2026-08-24T14:34:22.159Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_id": 414515727,
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
