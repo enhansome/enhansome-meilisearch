@@ -367,7 +367,7 @@
                 "last_commit": "2026-08-24T22:55:58Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35983
+                "stars": 35985
               }
             },
             {
@@ -1335,7 +1335,7 @@
                 "last_commit": "2026-08-14T09:38:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59078
+                "stars": 59081
               }
             },
             {
@@ -1378,7 +1378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:54:39.016Z",
+    "last_updated": "2026-08-25T06:29:38.745Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_id": 414515727,
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
