@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-11T07:40:36Z",
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
-                    "stars": 870
+                    "stars": 871
                   }
                 },
                 {
@@ -188,7 +188,7 @@
                     "archived": false,
                     "id": 62261287,
                     "language": "PHP",
-                    "last_commit": "2026-08-24T18:04:04Z",
+                    "last_commit": "2026-08-25T20:32:56Z",
                     "owner": "laravel",
                     "repo": "scout",
                     "stars": 1677
@@ -364,10 +364,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:55:58Z",
+                "last_commit": "2026-08-25T21:16:35Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 35985
+                "stars": 36002
               }
             },
             {
@@ -517,7 +517,7 @@
                 "last_commit": "2026-06-27T13:54:26Z",
                 "owner": "junghoon-vans",
                 "repo": "spring-data-meilisearch",
-                "stars": 25
+                "stars": 26
               }
             },
             {
@@ -863,7 +863,7 @@
                 "archived": false,
                 "id": 529870579,
                 "language": "TypeScript",
-                "last_commit": "2026-02-04T03:56:59Z",
+                "last_commit": "2026-08-25T06:39:07Z",
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
                 "stars": 770
@@ -893,7 +893,7 @@
                 "archived": false,
                 "id": 594897696,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T18:15:55Z",
+                "last_commit": "2026-08-25T16:53:35Z",
                 "owner": "tauri-apps",
                 "repo": "meilisearch-docsearch",
                 "stars": 174
@@ -1332,10 +1332,10 @@
                 "archived": false,
                 "id": 130688011,
                 "language": "Rust",
-                "last_commit": "2026-08-14T09:38:01Z",
+                "last_commit": "2026-08-25T15:47:14Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59081
+                "stars": 59091
               }
             },
             {
@@ -1378,7 +1378,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:38.745Z",
+    "last_updated": "2026-08-25T23:56:25.072Z",
     "original_repository": "meilisearch/awesome-meilisearch",
     "original_repository_id": 414515727,
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
