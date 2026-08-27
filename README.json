@@ -191,7 +191,7 @@
                     "last_commit": "2026-08-25T20:32:56Z",
                     "owner": "laravel",
                     "repo": "scout",
-                    "stars": 1678
+                    "stars": 1679
                   }
                 },
                 {
@@ -364,10 +364,10 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T23:15:17Z",
+                "last_commit": "2026-08-27T11:20:13Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36021
+                "stars": 36024
               }
             },
             {
@@ -424,7 +424,7 @@
                 "archived": false,
                 "id": 380803457,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:33:40Z",
+                "last_commit": "2026-08-27T10:05:30Z",
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
                 "stars": 99
@@ -1335,7 +1335,7 @@
                 "last_commit": "2026-08-26T09:46:17Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59103
+                "stars": 59105
               }
             },
             {
@@ -1378,9 +1378,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:00:21.242Z",
-    "original_repository": "meilisearch/awesome-meilisearch",
-    "original_repository_id": 414515727,
+    "last_updated": "2026-08-27T11:50:51.106Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 414515727,
+      "language": null,
+      "last_commit": "2026-07-08T14:02:15Z",
+      "owner": "meilisearch",
+      "repo": "awesome-meilisearch",
+      "stars": 158
+    },
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
     "enhanced_repository": "enhansome/enhansome-meilisearch",
     "enhanced_repository_description": null,
