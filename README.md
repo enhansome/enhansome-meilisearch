@@ -101,8 +101,8 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 871 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-26
 * [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 758 | 🐛 62 | 🌐 PHP | 📅 2026-08-26
-* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 678 | 🐛 6 | 🌐 Go | 📅 2026-08-11
-* [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 602 | 🐛 18 | 🌐 Python | 📅 2026-08-01
+* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 677 | 🐛 6 | 🌐 Go | 📅 2026-08-11
+* [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 602 | 🐛 19 | 🌐 Python | 📅 2026-08-01
 * [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 433 | 🐛 68 | 🌐 Rust | 📅 2026-07-22
 * [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 344 | 🐛 74 | 🌐 C# | 📅 2026-08-26
 * [Java](https://github.com/meilisearch/meilisearch-java) ⭐ 246 | 🐛 47 | 🌐 Java | 📅 2026-08-11
@@ -131,7 +131,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,024 | 🐛 184 | 🌐 TypeScript | 📅 2026-08-27 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,038 | 🐛 186 | 🌐 TypeScript | 📅 2026-08-27 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 384 | 🐛 56 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -139,7 +139,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) ⭐ 116 | 🐛 0 | 🌐 PHP | 📅 2022-02-21 - Yii2 framework extension
 
-* [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) ⭐ 99 | 🐛 1 | 🌐 Python | 📅 2026-08-27 - An asynchronous Python client
+* [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2026-08-27 - An asynchronous Python client
 
 * [django-meili](https://github.com/ikollipara/django-meili) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2026-02-25 - Django integration with Meilisearch
 
@@ -205,7 +205,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Miscellaneous
 
-* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) ⭐ 531 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-26 - A plugin to establish the communication between Meilisearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) ⭐ 4,054 | 🐛 220 | 🌐 TypeScript | 📅 2026-08-26 tools (powered by Algolia)
+* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) ⭐ 531 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-26 - A plugin to establish the communication between Meilisearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) ⭐ 4,055 | 🐛 221 | 🌐 TypeScript | 📅 2026-08-28 tools (powered by Algolia)
 * [docs-scraper](https://github.com/meilisearch/docs-scraper) ⭐ 346 | 🐛 25 | 🌐 Python | 📅 2026-02-10 -  A scraper tool to automatically read the content of your documentation and store it into Meilisearch.
 * [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) ⚠️ Archived - A search bar integration for all kinds of documentation
 
@@ -284,7 +284,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,105 | 🐛 318 | 🌐 Rust | 📅 2026-08-26
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,109 | 🐛 318 | 🌐 Rust | 📅 2026-08-27
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 56 | 🐛 29 | 📅 2023-10-23
 
@@ -320,4 +320,4 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

@@ -18,7 +18,8 @@
                 "owner": "meilisearch",
                 "repo": "integration-guides",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "children": [
@@ -35,7 +36,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
                     "stars": 871
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-php",
                     "stars": 758
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -64,8 +67,9 @@
                     "last_commit": "2026-08-11T21:06:35Z",
                     "owner": "meilisearch",
                     "repo": "meilisearch-go",
-                    "stars": 678
-                  }
+                    "stars": 677
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-python",
                     "stars": 602
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -95,7 +100,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-rust",
                     "stars": 433
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -110,7 +116,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-dotnet",
                     "stars": 344
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -125,7 +132,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-java",
                     "stars": 246
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-ruby",
                     "stars": 224
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +164,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-swift",
                     "stars": 96
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +180,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-dart",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 }
               ],
               "description": null,
@@ -192,7 +203,8 @@
                     "owner": "laravel",
                     "repo": "scout",
                     "stars": 1679
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -207,7 +219,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-rails",
                     "stars": 358
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -222,7 +235,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-symfony",
                     "stars": 154
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 }
               ],
               "description": null,
@@ -244,7 +258,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-react",
                     "stars": 216
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -259,7 +274,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-vue",
                     "stars": 167
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -274,7 +290,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-angular",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 }
               ],
               "description": null,
@@ -296,7 +313,8 @@
                     "owner": "meilisearch",
                     "repo": "strapi-plugin-meilisearch",
                     "stars": 244
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -311,7 +329,8 @@
                     "owner": "meilisearch",
                     "repo": "firestore-meilisearch",
                     "stars": 90
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -326,7 +345,8 @@
                     "owner": "meilisearch",
                     "repo": "vuepress-plugin-meilisearch",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -341,7 +361,8 @@
                     "owner": "meilisearch",
                     "repo": "gatsby-plugin-meilisearch",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 }
               ],
               "description": null,
@@ -364,11 +385,12 @@
                 "archived": false,
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:20:13Z",
+                "last_commit": "2026-08-27T19:51:33Z",
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36024
-              }
+                "stars": 36038
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "long2ice",
                 "repo": "meilisync",
                 "stars": 384
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "xlanex6",
                 "repo": "nuxt-meilisearch",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -413,7 +437,8 @@
                 "owner": "zhuzixian520",
                 "repo": "yii2-meilisearch",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -424,11 +449,12 @@
                 "archived": false,
                 "id": 380803457,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:05:30Z",
+                "last_commit": "2026-08-27T21:52:13Z",
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
-                "stars": 99
-              }
+                "stars": 98
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "ikollipara",
                 "repo": "django-meili",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -458,7 +485,8 @@
                 "owner": "sanders41",
                 "repo": "meilisearch-fastapi",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -473,7 +501,8 @@
                 "owner": "robottokauf3",
                 "repo": "meilisearch-elixir",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -488,7 +517,8 @@
                 "owner": "NouanceLabs",
                 "repo": "payload-meilisearch",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -503,7 +533,8 @@
                 "owner": "Loophole-Labs-Archive",
                 "repo": "mongomeili",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -518,7 +549,8 @@
                 "owner": "junghoon-vans",
                 "repo": "spring-data-meilisearch",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -533,7 +565,8 @@
                 "owner": "oplik0",
                 "repo": "nodebb-plugin-meilisearch",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -548,7 +581,8 @@
                 "owner": "YunoHost-Apps",
                 "repo": "meilisearch_ynh",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -563,7 +597,8 @@
                 "owner": "mumez",
                 "repo": "Meilisearch.st",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -578,7 +613,8 @@
                 "owner": "nemoengineering",
                 "repo": "meilisearch-kotlin",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -593,7 +629,8 @@
                 "owner": "Console45",
                 "repo": "nest-meilisearch",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -608,7 +645,8 @@
                 "owner": "Jordan-Kowal",
                 "repo": "django-meilisearch-indexer",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -623,7 +661,8 @@
                 "owner": "aberba",
                 "repo": "meilisearch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -638,7 +677,8 @@
                 "owner": "unionco",
                 "repo": "craft-meilisearch",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -653,7 +693,8 @@
                 "owner": "shevabam",
                 "repo": "meilisearch-light-php-client",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -668,7 +709,8 @@
                 "owner": "jhrldev",
                 "repo": "meili-ktr",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -683,7 +725,8 @@
                 "owner": "michaelborn",
                 "repo": "cbmeilisearch",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             }
           ],
           "description": null,
@@ -711,7 +754,8 @@
                 "owner": "meilisearch",
                 "repo": "meilisearch-migration",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "children": [
@@ -728,7 +772,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-kubernetes",
                     "stars": 278
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -743,7 +788,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-digitalocean",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -758,7 +804,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-aws",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -773,7 +820,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-gcp",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -788,7 +836,8 @@
                     "owner": "meilisearch",
                     "repo": "cloud-scripts",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 }
               ],
               "description": null,
@@ -810,7 +859,8 @@
                     "owner": "meilisearch",
                     "repo": "meilisearch-js-plugins",
                     "stars": 531
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -825,7 +875,8 @@
                     "owner": "meilisearch",
                     "repo": "docs-scraper",
                     "stars": 346
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 },
                 {
                   "node_type": "item",
@@ -840,7 +891,8 @@
                     "owner": "meilisearch",
                     "repo": "docs-searchbar.js",
                     "stars": 182
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:03.657Z"
                 }
               ],
               "description": null,
@@ -867,7 +919,8 @@
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
                 "stars": 770
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -882,7 +935,8 @@
                 "owner": "spatie",
                 "repo": "laravel-site-search",
                 "stars": 308
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -897,7 +951,8 @@
                 "owner": "tauri-apps",
                 "repo": "meilisearch-docsearch",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -912,7 +967,8 @@
                 "owner": "kaermorchen",
                 "repo": "meiliadmin",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -927,7 +983,8 @@
                 "owner": "dwarfhq",
                 "repo": "laravel-meilitools",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -942,7 +999,8 @@
                 "owner": "bpolaszek",
                 "repo": "meiliweb",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1015,8 @@
                 "owner": "SaraVieira",
                 "repo": "uirecord",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1031,8 @@
                 "owner": "irevoire",
                 "repo": "mieli",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1047,8 @@
                 "owner": "sanders41",
                 "repo": "meilisearch-tui",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1063,8 @@
                 "owner": "CodyTseng",
                 "repo": "meilisearch-helper",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1079,8 @@
                 "owner": "sanders41",
                 "repo": "meilisearch-cli",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1095,8 @@
                 "owner": "Bwilliamson55",
                 "repo": "meili-manager",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1111,8 @@
                 "owner": "leopku",
                 "repo": "meilisearch-prompt",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1127,8 @@
                 "owner": "moy2010",
                 "repo": "meilisearch-github-action",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1143,8 @@
                 "owner": "devtud",
                 "repo": "aio_meilisearch",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1159,8 @@
                 "owner": "connorabbas",
                 "repo": "meilisearch-manager",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1107,7 +1175,8 @@
                 "owner": "junghoon-vans",
                 "repo": "testcontainers-meilisearch",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1191,8 @@
                 "owner": "sanders41",
                 "repo": "pytest-meilisearch",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             }
           ],
           "description": null,
@@ -1148,7 +1218,8 @@
             "owner": "meilisearch",
             "repo": "ecommerce-demo",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1163,7 +1234,8 @@
             "owner": "meilisearch",
             "repo": "saas-demo",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1178,7 +1250,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1193,7 +1266,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1208,7 +1282,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1223,7 +1298,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1238,7 +1314,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1253,7 +1330,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1268,7 +1346,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1283,7 +1362,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1298,7 +1378,8 @@
             "owner": "meilisearch",
             "repo": "demos",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         },
         {
           "node_type": "item",
@@ -1313,7 +1394,8 @@
             "owner": "meilisearch",
             "repo": "demo-movies",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T07:04:03.657Z"
         }
       ],
       "title": "Demos"
@@ -1332,11 +1414,12 @@
                 "archived": false,
                 "id": 130688011,
                 "language": "Rust",
-                "last_commit": "2026-08-26T09:46:17Z",
+                "last_commit": "2026-08-27T14:07:01Z",
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59105
-              }
+                "stars": 59109
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1351,7 +1434,8 @@
                 "owner": "meilisearch",
                 "repo": "milli",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             },
             {
               "node_type": "item",
@@ -1366,7 +1450,8 @@
                 "owner": "meilisearch",
                 "repo": "product",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T07:04:03.657Z"
             }
           ],
           "description": null,
@@ -1378,7 +1463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:51.106Z",
+    "last_updated": "2026-08-28T07:04:03.657Z",
     "original_repository_info": {
       "archived": false,
       "id": 414515727,
