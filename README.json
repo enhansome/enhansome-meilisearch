@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Central reference for Meilisearch integrations.",
+                "homepage": "https://meilisearch.com",
                 "id": 254149837,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-02-26T22:51:47Z",
+                "open_issues": 2,
                 "owner": "meilisearch",
                 "repo": "integration-guides",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -30,12 +35,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "JavaScript/TypeScript client for Meilisearch",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 212378409,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T07:09:21Z",
+                    "open_issues": 43,
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
-                    "stars": 871
+                    "stars": 871,
+                    "topics": [
+                      "javascript",
+                      "meilisearch",
+                      "nodejs",
+                      "sdk",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -46,12 +62,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PHP client for Meilisearch",
+                    "homepage": "https://meilisearch.com",
                     "id": 228859550,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T07:32:04Z",
+                    "open_issues": 62,
                     "owner": "meilisearch",
                     "repo": "meilisearch-php",
-                    "stars": 758
+                    "stars": 758,
+                    "topics": [
+                      "client",
+                      "meilisearch",
+                      "php",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -62,12 +88,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Golang wrapper for the Meilisearch API ",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 226735754,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T21:06:35Z",
+                    "open_issues": 6,
                     "owner": "meilisearch",
                     "repo": "meilisearch-go",
-                    "stars": 677
+                    "stars": 677,
+                    "topics": [
+                      "client",
+                      "go",
+                      "golang",
+                      "meilisearch",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -78,12 +115,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python client for Meilisearch",
+                    "homepage": "https://meilisearch.com",
                     "id": 225885766,
                     "language": "Python",
-                    "last_commit": "2026-08-01T09:42:55Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T11:24:46Z",
+                    "open_issues": 17,
                     "owner": "meilisearch",
                     "repo": "meilisearch-python",
-                    "stars": 602
+                    "stars": 602,
+                    "topics": [
+                      "client",
+                      "meilisearch",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -94,12 +140,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rust wrapper for the Meilisearch API.",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 260656751,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-07-22T08:24:42Z",
+                    "open_issues": 68,
                     "owner": "meilisearch",
                     "repo": "meilisearch-rust",
-                    "stars": 433
+                    "stars": 433,
+                    "topics": [
+                      "crate",
+                      "meilisearch",
+                      "rust",
+                      "sdk",
+                      "search-engine",
+                      "wasm"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -110,12 +168,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ".NET client for Meilisearch",
+                    "homepage": "https://meilisearch.com",
                     "id": 266504469,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T08:02:41Z",
+                    "open_issues": 74,
                     "owner": "meilisearch",
                     "repo": "meilisearch-dotnet",
-                    "stars": 344
+                    "stars": 344,
+                    "topics": [
+                      "dotnet",
+                      "meilisearch",
+                      "search",
+                      "vector",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -126,12 +195,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Java client for Meilisearch",
+                    "homepage": "https://meilisearch.com",
                     "id": 237707489,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2026-08-11T03:41:58Z",
+                    "open_issues": 47,
                     "owner": "meilisearch",
                     "repo": "meilisearch-java",
-                    "stars": 246
+                    "stars": 247,
+                    "topics": [
+                      "client",
+                      "meilisearch",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -142,12 +220,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Ruby SDK for the Meilisearch API",
+                    "homepage": "https://meilisearch.com",
                     "id": 222446809,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-07-01T04:02:48Z",
+                    "open_issues": 38,
                     "owner": "meilisearch",
                     "repo": "meilisearch-ruby",
-                    "stars": 224
+                    "stars": 224,
+                    "topics": [
+                      "client",
+                      "meilisearch",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -158,12 +245,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Swift client for the Meilisearch API",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 252325176,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2026-07-07T01:28:21Z",
+                    "open_issues": 71,
                     "owner": "meilisearch",
                     "repo": "meilisearch-swift",
-                    "stars": 96
+                    "stars": 96,
+                    "topics": [
+                      "client",
+                      "sdk",
+                      "swift",
+                      "vapor"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -174,12 +271,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Meilisearch API client written for Dart",
+                    "homepage": "https://meilisearch.com",
                     "id": 319059109,
                     "language": "Dart",
+                    "license": "MIT",
                     "last_commit": "2026-08-01T14:12:26Z",
+                    "open_issues": 58,
                     "owner": "meilisearch",
                     "repo": "meilisearch-dart",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": [
+                      "client",
+                      "dart",
+                      "flutter",
+                      "meilisearch",
+                      "meilisearch-dart",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 }
@@ -197,12 +306,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Laravel Scout provides a driver based solution to searching your Eloquent models.",
+                    "homepage": "https://laravel.com/docs/scout",
                     "id": 62261287,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T20:32:56Z",
+                    "open_issues": 8,
                     "owner": "laravel",
                     "repo": "scout",
-                    "stars": 1679
+                    "stars": 1679,
+                    "topics": [
+                      "algolia",
+                      "laravel",
+                      "meilisearch",
+                      "search"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -213,12 +332,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Meilisearch integration for Ruby on Rails",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 338307278,
                     "language": "Ruby",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T07:15:20Z",
+                    "open_issues": 51,
                     "owner": "meilisearch",
                     "repo": "meilisearch-rails",
-                    "stars": 358
+                    "stars": 358,
+                    "topics": [
+                      "meilisearch",
+                      "rails",
+                      "ruby",
+                      "ruby-on-rails"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -229,12 +358,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Seamless integration of Meilisearch into your Symfony project.",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 275707200,
                     "language": "PHP",
+                    "license": "MIT",
                     "last_commit": "2026-08-06T13:11:08Z",
+                    "open_issues": 33,
                     "owner": "meilisearch",
                     "repo": "meilisearch-symfony",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": [
+                      "client",
+                      "integration",
+                      "search",
+                      "symfony"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 }
@@ -252,12 +391,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": "https://www.meilisearch.com/",
                     "id": 277836190,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-26T22:35:41Z",
+                    "open_issues": 0,
                     "owner": "meilisearch",
                     "repo": "meilisearch-react",
-                    "stars": 216
+                    "stars": 216,
+                    "topics": [
+                      "client",
+                      "instantsearch",
+                      "meilisearch",
+                      "react-search",
+                      "react-search-component"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -268,12 +418,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": "https://www.meilisearch.com/",
                     "id": 277852835,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-26T22:36:40Z",
+                    "open_issues": 4,
                     "owner": "meilisearch",
                     "repo": "meilisearch-vue",
-                    "stars": 167
+                    "stars": 167,
+                    "topics": [
+                      "client",
+                      "instantsearch",
+                      "meilisearch",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -284,12 +444,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Instant Meilisearch for Angular Framework",
+                    "homepage": "https://www.meilisearch.com/",
                     "id": 337682374,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-26T09:24:42Z",
+                    "open_issues": 0,
                     "owner": "meilisearch",
                     "repo": "meilisearch-angular",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 }
@@ -307,12 +472,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A strapi plugin to add your collections to Meilisearch",
+                    "homepage": "https://meilisearch.com",
                     "id": 339328481,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-12T09:06:26Z",
+                    "open_issues": 49,
                     "owner": "meilisearch",
                     "repo": "strapi-plugin-meilisearch",
-                    "stars": 244
+                    "stars": 244,
+                    "topics": [
+                      "meilisearch",
+                      "plugin",
+                      "search",
+                      "strapi",
+                      "strapi-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -323,12 +499,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fulltext search on Firebase with Meilisearch",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 395368355,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-27T00:41:25Z",
+                    "open_issues": 25,
                     "owner": "meilisearch",
                     "repo": "firestore-meilisearch",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": [
+                      "firebase",
+                      "firestore",
+                      "meilisearch"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -339,12 +524,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Add a relevant and typo tolerant search bar to your VuePress",
+                    "homepage": null,
                     "id": 254041626,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-22T00:26:46Z",
+                    "open_issues": 12,
                     "owner": "meilisearch",
                     "repo": "vuepress-plugin-meilisearch",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": [
+                      "integration",
+                      "meilisearch",
+                      "vuepress"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -355,12 +549,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A plugin to index your Gatsby content to Meilisearch based on graphQL queries",
+                    "homepage": null,
                     "id": 379289140,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-26T22:33:32Z",
+                    "open_issues": 6,
                     "owner": "meilisearch",
                     "repo": "gatsby-plugin-meilisearch",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": [
+                      "gatsby",
+                      "gatsby-plugin",
+                      "meilisearch",
+                      "search"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 }
@@ -383,12 +587,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The world's most flexible commerce platform for agents and developers",
+                "homepage": "https://medusajs.com",
                 "id": 234739976,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T19:51:33Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T16:31:12Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36038
+                "stars": 36046,
+                "topics": [
+                  "ai-coding",
+                  "ai-tools",
+                  "commerce",
+                  "e-commerce",
+                  "ecommerce",
+                  "framework",
+                  "javascript",
+                  "medusa",
+                  "nodejs",
+                  "react",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -399,12 +620,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Realtime sync data from MySQL/PostgreSQL/MongoDB to Meilisearch",
+                "homepage": "https://github.com/long2ice/meilisync",
                 "id": 606779235,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-17T15:27:03Z",
+                "open_issues": 56,
                 "owner": "long2ice",
                 "repo": "meilisync",
-                "stars": 384
+                "stars": 384,
+                "topics": [
+                  "datasync",
+                  "etl",
+                  "meilisearch",
+                  "mongodb",
+                  "mysql",
+                  "postgresql",
+                  "realtime-synchronization"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -415,12 +649,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔎 Meilisearch module for Nuxt 3",
+                "homepage": "https://nuxt-meilisearch.vercel.app/getting-started/setup",
                 "id": 489500112,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-07-06T09:47:44Z",
+                "open_issues": 0,
                 "owner": "xlanex6",
                 "repo": "nuxt-meilisearch",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "meilisearch",
+                  "meilisearch-nuxt",
+                  "nuxt",
+                  "nuxt-module",
+                  "nuxt3",
+                  "nuxtjs"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -431,12 +677,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MeiliSearch Extension For Yii2 Framework",
+                "homepage": null,
                 "id": 457685505,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2022-02-21T14:59:27Z",
+                "open_issues": 0,
                 "owner": "zhuzixian520",
                 "repo": "yii2-meilisearch",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "meilisearch",
+                  "php",
+                  "search",
+                  "yii2"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -447,12 +703,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An async and sync Python client for the Meilisearch API ",
+                "homepage": "https://meilisearch-python-sdk.paulsanders.dev/",
                 "id": 380803457,
                 "language": "Python",
-                "last_commit": "2026-08-27T21:52:13Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T18:05:02Z",
+                "open_issues": 1,
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "async",
+                  "asyncio",
+                  "client",
+                  "meilisearch",
+                  "python",
+                  "sdk",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -463,12 +732,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django integration with Meilisearch",
+                "homepage": null,
                 "id": 703009338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-25T16:28:49Z",
+                "open_issues": 1,
                 "owner": "ikollipara",
                 "repo": "django-meili",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "django",
+                  "meilisearch"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -479,12 +756,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Meilisearch integration with FastAPI",
+                "homepage": null,
                 "id": 365662323,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-26T15:13:17Z",
+                "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "meilisearch-fastapi",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "async",
+                  "fastapi",
+                  "meilisearch",
+                  "python",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -495,12 +783,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Elixir client for MeiliSearch",
+                "homepage": null,
                 "id": 250683222,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-02-04T20:51:45Z",
+                "open_issues": 4,
                 "owner": "robottokauf3",
                 "repo": "meilisearch-elixir",
-                "stars": 48
+                "stars": 48,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -511,12 +804,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meilisearch integration plugin for Payload CMS.",
+                "homepage": null,
                 "id": 606341828,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-29T10:04:00Z",
+                "open_issues": 6,
                 "owner": "NouanceLabs",
                 "repo": "payload-meilisearch",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "meilisearch",
+                  "nouance",
+                  "payload",
+                  "payload-plugin",
+                  "payloadcms"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -527,12 +831,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Keep your Mongoose Schemas synced with MeiliSearch",
+                "homepage": null,
                 "id": 303872449,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2021-08-29T19:30:31Z",
+                "open_issues": 2,
                 "owner": "Loophole-Labs-Archive",
                 "repo": "mongomeili",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "database",
+                  "databases",
+                  "meilisearch",
+                  "mongodb",
+                  "mongoose",
+                  "search",
+                  "sync"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -543,12 +860,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provide support to increase developer productivity in Java when using Meilisearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.",
+                "homepage": "https://junghoon-vans.github.io/spring-data-meilisearch/",
                 "id": 629395220,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-27T13:54:26Z",
+                "open_issues": 23,
                 "owner": "junghoon-vans",
                 "repo": "spring-data-meilisearch",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "ddd",
+                  "framework",
+                  "java",
+                  "meilisearch",
+                  "spring",
+                  "spring-data"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -559,12 +888,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-text searching for NodeBB using Meilisearch",
+                "homepage": null,
                 "id": 531557858,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-21T22:29:34Z",
+                "open_issues": 15,
                 "owner": "oplik0",
                 "repo": "nodebb-plugin-meilisearch",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -575,12 +909,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+                "homepage": "https://www.meilisearch.com/",
                 "id": 264263444,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T19:50:09Z",
+                "open_issues": 2,
                 "owner": "YunoHost-Apps",
                 "repo": "meilisearch_ynh",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "meilisearch",
+                  "yunohost",
+                  "yunohost-apps"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -591,12 +934,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meilisearch client for Smalltalk",
+                "homepage": null,
                 "id": 656953066,
                 "language": "Smalltalk",
+                "license": "MIT",
                 "last_commit": "2026-08-02T13:56:52Z",
+                "open_issues": 0,
                 "owner": "mumez",
                 "repo": "Meilisearch.st",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "gemstone",
+                  "gsdevkit",
+                  "meilisearch",
+                  "pharo-smalltalk",
+                  "search",
+                  "smalltalk"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -607,12 +962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An async Kotlin wrapper around Meilisearch API",
+                "homepage": null,
                 "id": 480784790,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2025-02-26T06:44:43Z",
+                "open_issues": 10,
                 "owner": "nemoengineering",
                 "repo": "meilisearch-kotlin",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -623,12 +983,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 552090159,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-10-16T11:07:19Z",
+                "open_issues": 0,
                 "owner": "Console45",
                 "repo": "nest-meilisearch",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -639,12 +1004,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Meilisearch indexer for django models and related utilities",
+                "homepage": "https://pypi.org/project/django-meilisearch-indexer/",
                 "id": 879070099,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-01T06:22:35Z",
+                "open_issues": 0,
                 "owner": "Jordan-Kowal",
                 "repo": "django-meilisearch-indexer",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "django",
+                  "indexer",
+                  "meilisearch",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -655,12 +1030,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MeiliSearch API for D",
+                "homepage": null,
                 "id": 322444479,
                 "language": "D",
+                "license": "BSL-1.0",
                 "last_commit": "2020-12-28T22:23:27Z",
+                "open_issues": 0,
                 "owner": "aberba",
                 "repo": "meilisearch",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -671,12 +1051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 327713223,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-11-04T17:11:48Z",
+                "open_issues": 2,
                 "owner": "unionco",
                 "repo": "craft-meilisearch",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -687,12 +1072,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meilisearch Light PHP Client",
+                "homepage": null,
                 "id": 505119670,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2023-03-25T19:56:40Z",
+                "open_issues": 0,
                 "owner": "shevabam",
                 "repo": "meilisearch-light-php-client",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "api",
+                  "meilisearch",
+                  "php",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -703,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 423526557,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-02T00:05:11Z",
+                "open_issues": 0,
                 "owner": "jhrldev",
                 "repo": "meili-ktr",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -719,12 +1119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API wrapper for Meilisearch written in CFML for the ColdBox platform",
+                "homepage": null,
                 "id": 533956489,
                 "language": "ColdFusion",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-07T05:34:38Z",
+                "open_issues": 0,
                 "owner": "michaelborn",
                 "repo": "cbmeilisearch",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             }
@@ -748,12 +1153,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scripts to update Meilisearch version's.",
+                "homepage": "https://www.meilisearch.com/",
                 "id": 409565500,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-01-19T17:41:48Z",
+                "open_issues": 4,
                 "owner": "meilisearch",
                 "repo": "meilisearch-migration",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -766,12 +1176,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Meilisearch on Kubernetes Helm charts and manifests ",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 276347473,
                     "language": "Mustache",
+                    "license": "MIT",
                     "last_commit": "2026-08-13T20:37:29Z",
+                    "open_issues": 24,
                     "owner": "meilisearch",
                     "repo": "meilisearch-kubernetes",
-                    "stars": 278
+                    "stars": 278,
+                    "topics": [
+                      "helm",
+                      "helm-chart",
+                      "integration",
+                      "k8s",
+                      "kubernetes",
+                      "kubernetes-deployment",
+                      "meilisearch",
+                      "meilisearch-kubernetes"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -782,12 +1206,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Meilisearch services on DigitalOcean",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 256211526,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-09T15:56:57Z",
+                    "open_issues": 0,
                     "owner": "meilisearch",
                     "repo": "meilisearch-digitalocean",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": [
+                      "digitalocean",
+                      "integration"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -798,12 +1230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "AWS services for Meilisearch",
+                    "homepage": "https://www.meilisearch.com/",
                     "id": 319680570,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-09T15:52:03Z",
+                    "open_issues": 0,
                     "owner": "meilisearch",
                     "repo": "meilisearch-aws",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -814,12 +1251,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Meilisearch services on GCP",
+                    "homepage": null,
                     "id": 344096475,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-09T15:38:38Z",
+                    "open_issues": 0,
                     "owner": "meilisearch",
                     "repo": "meilisearch-gcp",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -830,12 +1272,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Cloud scripts for cloud provider agnostic configuration",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 327310511,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2023-05-09T18:34:47Z",
+                    "open_issues": 0,
                     "owner": "meilisearch",
                     "repo": "cloud-scripts",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 }
@@ -853,12 +1300,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The search client to use Meilisearch with InstantSearch.",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 281634568,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T06:44:45Z",
+                    "open_issues": 54,
                     "owner": "meilisearch",
                     "repo": "meilisearch-js-plugins",
-                    "stars": 531
+                    "stars": 531,
+                    "topics": [
+                      "angular",
+                      "client",
+                      "geosearch",
+                      "instantsearch",
+                      "js",
+                      "meilisearch",
+                      "react",
+                      "vue"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -869,12 +1330,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scrape documentation into Meilisearch",
+                    "homepage": "https://www.meilisearch.com",
                     "id": 243727994,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-02-10T23:51:48Z",
+                    "open_issues": 25,
                     "owner": "meilisearch",
                     "repo": "docs-scraper",
-                    "stars": 346
+                    "stars": 346,
+                    "topics": [
+                      "integration",
+                      "meilisearch",
+                      "scraper"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 },
@@ -885,12 +1355,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Front-end search bar for documentation with Meilisearch",
+                    "homepage": "https://www.meilisearch.com/",
                     "id": 241083947,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-02-01T21:02:41Z",
+                    "open_issues": 10,
                     "owner": "meilisearch",
                     "repo": "docs-searchbar.js",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": [
+                      "integration",
+                      "meilisearch",
+                      "search-bar"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:03.657Z"
                 }
@@ -913,12 +1392,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Open-source, pretty, simple and fast ⚡ Meilisearch admin dashboard UI for managing your meilisearch instances 🕹",
+                "homepage": "https://meilisearch-ui.vercel.app",
                 "id": 529870579,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T06:39:07Z",
+                "open_issues": 9,
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
-                "stars": 770
+                "stars": 770,
+                "topics": [
+                  "admin",
+                  "admin-dashboard",
+                  "admin-panel",
+                  "console",
+                  "dashboard",
+                  "hacktoberfest",
+                  "meilisearch",
+                  "meilisearch-dashboard",
+                  "react",
+                  "reactjs",
+                  "search",
+                  "search-engine",
+                  "searchview",
+                  "typescript",
+                  "ui",
+                  "vercel",
+                  "vitejs"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -929,12 +1431,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create a full-text search index by crawling your site",
+                "homepage": "https://docs.spatie.be/laravel-site-search",
                 "id": 406259242,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-10T07:56:21Z",
+                "open_issues": 0,
                 "owner": "spatie",
                 "repo": "laravel-site-search",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "crawl",
+                  "hacktoberfest",
+                  "laravel",
+                  "php",
+                  "search",
+                  "site"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -945,12 +1459,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A quick search component for meilisearch, inspired by algolia/docsearch.",
+                "homepage": null,
                 "id": 594897696,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T16:53:35Z",
+                "open_issues": 12,
                 "owner": "tauri-apps",
                 "repo": "meilisearch-docsearch",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "autocomplete",
+                  "docs",
+                  "docsearch",
+                  "meilisearch",
+                  "quicksearch",
+                  "quicksearchbar",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -961,12 +1488,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meiliadmin is a dashboard for Meilisearch",
+                "homepage": "https://kaermorchen.github.io/meiliadmin/",
                 "id": 328148021,
                 "language": "JavaScript",
+                "license": "MPL-2.0",
                 "last_commit": "2026-04-24T23:34:15Z",
+                "open_issues": 20,
                 "owner": "kaermorchen",
                 "repo": "meiliadmin",
-                "stars": 109
+                "stars": 109,
+                "topics": [
+                  "ember",
+                  "meilisearch"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -977,12 +1512,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Additional tools for Laravel Scout 9+ integration with MeiliSearch",
+                "homepage": null,
                 "id": 485717015,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-06-22T22:04:19Z",
+                "open_issues": 3,
                 "owner": "dwarfhq",
                 "repo": "laravel-meilitools",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "laravel",
+                  "meilisearch",
+                  "scout"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -993,12 +1537,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A user interface for your Meilisearch instances.",
+                "homepage": "https://meiliweb.pages.dev",
                 "id": 784734448,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T16:58:30Z",
+                "open_issues": 1,
                 "owner": "bpolaszek",
                 "repo": "meiliweb",
-                "stars": 67
+                "stars": 68,
+                "topics": [
+                  "facets",
+                  "full-text-search",
+                  "meilisearch",
+                  "search"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1009,12 +1563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A UI to manage your Meilisearch instances",
+                "homepage": "https://admin.uirecord.dev/",
                 "id": 430189527,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-03-14T17:05:46Z",
+                "open_issues": 4,
                 "owner": "SaraVieira",
                 "repo": "uirecord",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1025,12 +1584,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stupid CLI wrapper around Meilisearch 🐻",
+                "homepage": null,
                 "id": 400577370,
                 "language": "Rust",
+                "license": "WTFPL",
                 "last_commit": "2025-06-06T21:40:07Z",
+                "open_issues": 4,
                 "owner": "irevoire",
                 "repo": "mieli",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "cli",
+                  "meilisearch",
+                  "shell"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1041,12 +1609,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A TUI for Managing and Searching with Meilisearch",
+                "homepage": null,
                 "id": 620556119,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-26T15:03:08Z",
+                "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "meilisearch-tui",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "meilisearch",
+                  "python",
+                  "terminal-app",
+                  "text-user-interface",
+                  "textual",
+                  "tui"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1057,12 +1637,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A helper library for meilisearch-js that provides convenient utility methods to simplify common operations and enhance your Meilisearch experience.",
+                "homepage": null,
                 "id": 805723572,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-11-18T04:25:13Z",
+                "open_issues": 2,
                 "owner": "CodyTseng",
                 "repo": "meilisearch-helper",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "javascript",
+                  "meilisearch",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1073,12 +1662,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A CLI for working with Meilisearch",
+                "homepage": null,
                 "id": 418227796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-01T16:34:58Z",
+                "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "meilisearch-cli",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "cli",
+                  "meilisearch"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1089,12 +1686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Quasar app to manage a MeiliSearch instance and its settings",
+                "homepage": "https://meili-manager.weeumson.com",
                 "id": 594425627,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-16T18:55:09Z",
+                "open_issues": 0,
                 "owner": "Bwilliamson55",
                 "repo": "meili-manager",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1105,12 +1707,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line interface for meilisearch with auto-completion and Syntax Highlighting.",
+                "homepage": null,
                 "id": 478401091,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2022-04-17T07:31:15Z",
+                "open_issues": 0,
                 "owner": "leopku",
                 "repo": "meilisearch-prompt",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "auto-completion",
+                  "golang",
+                  "meilisearch",
+                  "syntax-highlighting"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1121,12 +1733,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meilisearch in GitHub Actions",
+                "homepage": null,
                 "id": 466485528,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2022-07-17T16:35:22Z",
+                "open_issues": 2,
                 "owner": "moy2010",
                 "repo": "meilisearch-github-action",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1137,12 +1754,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 325639894,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-01-03T15:35:01Z",
+                "open_issues": 0,
                 "owner": "devtud",
                 "repo": "aio_meilisearch",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1153,12 +1775,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern, open source, web-based UI for managing Meilisearch instances.",
+                "homepage": "https://connorabbas.github.io/meilisearch-manager/",
                 "id": 1201236197,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-15T14:35:17Z",
+                "open_issues": 0,
                 "owner": "connorabbas",
                 "repo": "meilisearch-manager",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1169,12 +1796,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Testcontainers implementation for Meilisearch",
+                "homepage": "https://testcontainers.com/modules/meilisearch/",
                 "id": 667329198,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-09T15:00:35Z",
+                "open_issues": 0,
                 "owner": "junghoon-vans",
                 "repo": "testcontainers-meilisearch",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "meilisearch",
+                  "testcontainers"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1185,12 +1820,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "pytest helpers for testing Python projects using Meilisearch.",
+                "homepage": null,
                 "id": 710790095,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-01T01:57:38Z",
+                "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "pytest-meilisearch",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "meilisearch",
+                  "pytest",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             }
@@ -1212,12 +1856,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nuxt 3 ecommerce site  search with filtering and facets powered by Meilisearch",
+            "homepage": "https://ecommerce.meilisearch.com/?utm_campaign=ecommerce-demo&utm_source=github&utm_medium=website-url",
             "id": 595979755,
             "language": "Vue",
+            "license": null,
             "last_commit": "2025-09-01T08:07:56Z",
+            "open_issues": 5,
             "owner": "meilisearch",
             "repo": "ecommerce-demo",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "ecommerce",
+              "faceted-search",
+              "meilisearch",
+              "nuxt"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1228,12 +1882,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App search in a CRM use case, powered by Meilisearch",
+            "homepage": "https://saas.meilisearch.com/?utm_campaign=saas-demo&utm_source=github&utm_medium=website-url",
             "id": 648269514,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-09-01T08:09:33Z",
+            "open_issues": 3,
             "owner": "meilisearch",
             "repo": "saas-demo",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "crm",
+              "laravel",
+              "meilisearch",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1244,12 +1908,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1260,12 +1931,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1276,12 +1954,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1292,12 +1977,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1308,12 +2000,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1324,12 +2023,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1340,12 +2046,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1356,12 +2069,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1372,12 +2092,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Meilisearch demos with open-source code and live preview ⚡️",
+            "homepage": null,
             "id": 345802860,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2026-05-20T17:34:00Z",
+            "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "meilisearch"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         },
@@ -1388,12 +2115,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js app to find streaming platform to watch movies",
+            "homepage": "https://where2watch.meilisearch.com/",
             "id": 420939528,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-01T22:41:11Z",
+            "open_issues": 19,
             "owner": "meilisearch",
             "repo": "demo-movies",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "meilisearch",
+              "nextjs",
+              "nextjs-example",
+              "react",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T07:04:03.657Z"
         }
@@ -1412,12 +2150,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+                "homepage": "https://www.meilisearch.com",
                 "id": 130688011,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:07:01Z",
+                "open_issues": 318,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59109
+                "stars": 59118,
+                "topics": [
+                  "ai",
+                  "api",
+                  "app-search",
+                  "database",
+                  "enterprise-search",
+                  "faceting",
+                  "full-text-search",
+                  "fuzzy-search",
+                  "geosearch",
+                  "hybrid-search",
+                  "instantsearch",
+                  "search",
+                  "search-as-you-type",
+                  "search-engine",
+                  "semantic-search",
+                  "site-search",
+                  "typo-tolerance",
+                  "vector-database",
+                  "vector-search",
+                  "vectors"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1428,12 +2192,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Search engine library for Meilisearch ⚡️",
+                "homepage": null,
                 "id": 268274269,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-04-04T11:21:46Z",
+                "open_issues": 5,
                 "owner": "meilisearch",
                 "repo": "milli",
-                "stars": 466
+                "stars": 466,
+                "topics": [
+                  "lmdb",
+                  "meilisearch",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             },
@@ -1444,12 +2217,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public feedback and ideation discussions for Meilisearch product 🔮",
+                "homepage": null,
                 "id": 359812205,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-23T17:47:08Z",
+                "open_issues": 29,
                 "owner": "meilisearch",
                 "repo": "product",
-                "stars": 56
+                "stars": 56,
+                "topics": [
+                  "backlog",
+                  "feedback",
+                  "ideation",
+                  "meilisearch",
+                  "product",
+                  "roadmap"
+                ]
               },
               "first_seen": "2026-08-28T07:04:03.657Z"
             }
@@ -1463,15 +2248,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:03.657Z",
+    "last_updated": "2026-08-29T04:29:11.453Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Meilisearch resources",
+      "homepage": null,
       "id": 414515727,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-07-08T14:02:15Z",
+      "open_issues": 2,
       "owner": "meilisearch",
       "repo": "awesome-meilisearch",
-      "stars": 158
+      "stars": 158,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "resources"
+      ]
     },
     "original_repository_sha": "e001f9e05f92665ee9fe65a7b919c744904731c0",
     "enhanced_repository": "enhansome/enhansome-meilisearch",
