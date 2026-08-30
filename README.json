@@ -593,10 +593,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T16:31:12Z",
-                "open_issues": 189,
+                "open_issues": 193,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36046,
+                "stars": 36061,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1401,7 +1401,7 @@
                 "open_issues": 9,
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
-                "stars": 770,
+                "stars": 769,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -2156,10 +2156,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T14:07:01Z",
-                "open_issues": 318,
+                "open_issues": 319,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59118,
+                "stars": 59125,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:32.702Z",
+    "last_updated": "2026-08-30T01:37:30.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
