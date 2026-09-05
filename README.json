@@ -592,11 +592,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T15:17:46Z",
-                "open_issues": 209,
+                "last_commit": "2026-09-04T20:16:52Z",
+                "open_issues": 189,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36130,
+                "stars": 36145,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -708,8 +708,8 @@
                 "id": 380803457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T00:25:39Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T09:41:06Z",
+                "open_issues": 1,
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
                 "stars": 98,
@@ -2159,7 +2159,7 @@
                 "open_issues": 315,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59175,
+                "stars": 59176,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:20:45.931Z",
+    "last_updated": "2026-09-05T01:22:15.229Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
