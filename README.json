@@ -44,7 +44,7 @@
                     "open_issues": 41,
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
-                    "stars": 870,
+                    "stars": 871,
                     "topics": [
                       "javascript",
                       "meilisearch",
@@ -311,7 +311,7 @@
                     "id": 62261287,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-09-17T20:59:19Z",
+                    "last_commit": "2026-09-18T14:17:20Z",
                     "open_issues": 7,
                     "owner": "laravel",
                     "repo": "scout",
@@ -592,11 +592,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T19:10:20Z",
-                "open_issues": 186,
+                "last_commit": "2026-09-18T14:26:40Z",
+                "open_issues": 190,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36360,
+                "stars": 36376,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1401,7 +1401,7 @@
                 "open_issues": 7,
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
-                "stars": 776,
+                "stars": 777,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1780,7 +1780,7 @@
                 "id": 1201236197,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-18T01:23:57Z",
+                "last_commit": "2026-09-19T01:28:00Z",
                 "open_issues": 0,
                 "owner": "connorabbas",
                 "repo": "meilisearch-manager",
@@ -2159,7 +2159,7 @@
                 "open_issues": 308,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59319,
+                "stars": 59331,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:27:05.394Z",
+    "last_updated": "2026-09-19T01:33:39.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
