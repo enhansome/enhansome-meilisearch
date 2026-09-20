@@ -204,7 +204,7 @@
                     "open_issues": 50,
                     "owner": "meilisearch",
                     "repo": "meilisearch-java",
-                    "stars": 246,
+                    "stars": 245,
                     "topics": [
                       "client",
                       "meilisearch",
@@ -315,7 +315,7 @@
                     "open_issues": 7,
                     "owner": "laravel",
                     "repo": "scout",
-                    "stars": 1676,
+                    "stars": 1677,
                     "topics": [
                       "algolia",
                       "laravel",
@@ -593,10 +593,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T14:26:40Z",
-                "open_issues": 190,
+                "open_issues": 193,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36376,
+                "stars": 36384,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -626,7 +626,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-17T15:27:03Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "long2ice",
                 "repo": "meilisync",
                 "stars": 384,
@@ -708,7 +708,7 @@
                 "id": 380803457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T12:58:16Z",
+                "last_commit": "2026-09-19T18:36:08Z",
                 "open_issues": 1,
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
@@ -1185,7 +1185,7 @@
                     "open_issues": 24,
                     "owner": "meilisearch",
                     "repo": "meilisearch-kubernetes",
-                    "stars": 276,
+                    "stars": 277,
                     "topics": [
                       "helm",
                       "helm-chart",
@@ -1780,7 +1780,7 @@
                 "id": 1201236197,
                 "language": "Vue",
                 "license": "MIT",
-                "last_commit": "2026-09-19T01:28:00Z",
+                "last_commit": "2026-09-19T20:08:52Z",
                 "open_issues": 0,
                 "owner": "connorabbas",
                 "repo": "meilisearch-manager",
@@ -1865,7 +1865,7 @@
             "open_issues": 5,
             "owner": "meilisearch",
             "repo": "ecommerce-demo",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "ecommerce",
               "faceted-search",
@@ -2159,7 +2159,7 @@
                 "open_issues": 308,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59331,
+                "stars": 59344,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:33:39.944Z",
+    "last_updated": "2026-09-20T01:35:38.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
