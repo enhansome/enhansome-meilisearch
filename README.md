@@ -102,7 +102,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 871 | 🐛 44 | 🌐 TypeScript | 📅 2026-09-22
 * [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 756 | 🐛 60 | 🌐 PHP | 📅 2026-09-23
 * [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 680 | 🐛 9 | 🌐 Go | 📅 2026-09-01
-* [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 602 | 🐛 20 | 🌐 Python | 📅 2026-08-28
+* [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 603 | 🐛 20 | 🌐 Python | 📅 2026-08-28
 * [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 431 | 🐛 69 | 🌐 Rust | 📅 2026-07-22
 * [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 345 | 🐛 78 | 🌐 C# | 📅 2026-09-16
 * [Java](https://github.com/meilisearch/meilisearch-java) ⭐ 246 | 🐛 51 | 🌐 Java | 📅 2026-08-11
@@ -131,7 +131,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,470 | 🐛 186 | 🌐 TypeScript | 📅 2026-09-25 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,480 | 🐛 185 | 🌐 TypeScript | 📅 2026-09-25 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 384 | 🐛 57 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -151,7 +151,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * ARCHIVED: ~~[MongoMeili](https://github.com/loophole-labs/mongomeili) ⚠️ Archived - Sync MongooseJS Schemas with Meilisearch~~
 
-* [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) ⭐ 26 | 🐛 30 | 🌐 Java | 📅 2026-09-25 - Spring Data Implementation for Meilisearch
+* [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) ⭐ 26 | 🐛 31 | 🌐 Java | 📅 2026-09-26 - Spring Data Implementation for Meilisearch
 
 * [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch) ⭐ 15 | 🐛 15 | 🌐 JavaScript | 📅 2026-09-25
 
@@ -226,7 +226,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [meilisearch-prompt](https://github.com/leopku/meilisearch-prompt) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2022-04-17 - A command-line kit to manage a Meilisearch server
 * [Meilisearch GitHub Action](https://github.com/moy2010/meilisearch-github-action) ⭐ 5 | 🐛 2 | 🌐 Shell | 📅 2022-07-17 - Start a Meilisearch server from your GH Actions with this action
 * [AIO\_MEILISEARCH](https://github.com/devtud/aio_meilisearch) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2021-01-03 - Async Wrapper over Meilisearch REST API
-* [Meilisearch Manager](https://github.com/connorabbas/meilisearch-manager-next) ⭐ 2 | 🐛 0 | 🌐 Vue | 📅 2026-09-26 - A UI to manage instances
+* [Meilisearch Manager](https://github.com/connorabbas/meilisearch-manager-next) ⭐ 2 | 🐛 1 | 🌐 Vue | 📅 2026-09-27 - A UI to manage instances
 * [Testcontainers Meilisearch](https://github.com/junghoon-vans/testcontainers-meilisearch) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2026-05-09 - A Testcontainers community module for Meilisearch
 * [pytest-meilisearch](https://github.com/sanders41/pytest-meilisearch) ⚠️ Archived - A pytest plugin to help with testing in projects using Python
 * [meilisearch-filters](https://www.npmjs.com/package/meilisearch-filters) - A fluent interface to build Meilisearch filters (Javascript / Typescript)
@@ -284,7 +284,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,407 | 🐛 313 | 🌐 Rust | 📅 2026-09-24
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,416 | 🐛 314 | 🌐 Rust | 📅 2026-09-24
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 56 | 🐛 29 | 📅 2023-10-23
 
@@ -320,4 +320,4 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
