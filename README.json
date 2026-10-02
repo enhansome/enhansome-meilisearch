@@ -40,7 +40,7 @@
                     "id": 212378409,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-09-30T08:38:02Z",
+                    "last_commit": "2026-10-01T12:34:56Z",
                     "open_issues": 43,
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
@@ -97,7 +97,7 @@
                     "open_issues": 9,
                     "owner": "meilisearch",
                     "repo": "meilisearch-go",
-                    "stars": 680,
+                    "stars": 681,
                     "topics": [
                       "client",
                       "go",
@@ -124,7 +124,7 @@
                     "open_issues": 21,
                     "owner": "meilisearch",
                     "repo": "meilisearch-python",
-                    "stars": 603,
+                    "stars": 604,
                     "topics": [
                       "client",
                       "meilisearch",
@@ -204,7 +204,7 @@
                     "open_issues": 51,
                     "owner": "meilisearch",
                     "repo": "meilisearch-java",
-                    "stars": 245,
+                    "stars": 244,
                     "topics": [
                       "client",
                       "meilisearch",
@@ -592,11 +592,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T12:46:14Z",
-                "open_issues": 179,
+                "last_commit": "2026-10-01T15:38:16Z",
+                "open_issues": 168,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36519,
+                "stars": 36546,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -708,7 +708,7 @@
                 "id": 380803457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T14:01:44Z",
+                "last_commit": "2026-10-01T20:10:57Z",
                 "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
@@ -914,8 +914,8 @@
                 "id": 264263444,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-29T22:22:57Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-01T22:26:47Z",
+                "open_issues": 4,
                 "owner": "YunoHost-Apps",
                 "repo": "meilisearch_ynh",
                 "stars": 13,
@@ -1181,8 +1181,8 @@
                     "id": 276347473,
                     "language": "Mustache",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T13:09:16Z",
-                    "open_issues": 27,
+                    "last_commit": "2026-10-01T10:36:49Z",
+                    "open_issues": 28,
                     "owner": "meilisearch",
                     "repo": "meilisearch-kubernetes",
                     "stars": 278,
@@ -1917,7 +1917,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -1940,7 +1940,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -1963,7 +1963,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -1986,7 +1986,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -2009,7 +2009,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -2032,7 +2032,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -2055,7 +2055,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -2078,7 +2078,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -2101,7 +2101,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 89,
+            "stars": 90,
             "topics": [
               "meilisearch"
             ]
@@ -2155,11 +2155,11 @@
                 "id": 130688011,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T16:04:47Z",
-                "open_issues": 320,
+                "last_commit": "2026-10-01T22:10:07Z",
+                "open_issues": 323,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59447,
+                "stars": 59459,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:23:18.171Z",
+    "last_updated": "2026-10-02T02:33:29.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
