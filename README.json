@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "JavaScript",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -58,7 +58,7 @@
                 {
                   "node_type": "item",
                   "title": "PHP",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-php",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -84,7 +84,7 @@
                 {
                   "node_type": "item",
                   "title": "Golang",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-go",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -111,7 +111,7 @@
                 {
                   "node_type": "item",
                   "title": "Python",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-python",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -136,7 +136,7 @@
                 {
                   "node_type": "item",
                   "title": "Rust",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-rust",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -164,7 +164,7 @@
                 {
                   "node_type": "item",
                   "title": ".Net",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-dotnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -191,7 +191,7 @@
                 {
                   "node_type": "item",
                   "title": "Java",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-java",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -216,7 +216,7 @@
                 {
                   "node_type": "item",
                   "title": "Ruby",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-ruby",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -241,7 +241,7 @@
                 {
                   "node_type": "item",
                   "title": "Swift",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-swift",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -267,7 +267,7 @@
                 {
                   "node_type": "item",
                   "title": "Dart",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-dart",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -328,7 +328,7 @@
                 {
                   "node_type": "item",
                   "title": "Ruby on Rails",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-rails",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -354,7 +354,7 @@
                 {
                   "node_type": "item",
                   "title": "Symfony",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-symfony",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -387,7 +387,7 @@
                 {
                   "node_type": "item",
                   "title": "React",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-react",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -414,7 +414,7 @@
                 {
                   "node_type": "item",
                   "title": "Vue",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-vue",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -440,7 +440,7 @@
                 {
                   "node_type": "item",
                   "title": "Angular",
-                  "description": null,
+                  "description": "meilisearch/meilisearch-angular",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -468,7 +468,7 @@
                 {
                   "node_type": "item",
                   "title": "Strapi",
-                  "description": null,
+                  "description": "meilisearch/strapi-plugin-meilisearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -495,7 +495,7 @@
                 {
                   "node_type": "item",
                   "title": "Firestore",
-                  "description": null,
+                  "description": "meilisearch/firestore-meilisearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -520,7 +520,7 @@
                 {
                   "node_type": "item",
                   "title": "VuePress",
-                  "description": null,
+                  "description": "meilisearch/vuepress-plugin-meilisearch",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -545,7 +545,7 @@
                 {
                   "node_type": "item",
                   "title": "Gatsby",
-                  "description": null,
+                  "description": "meilisearch/gatsby-plugin-meilisearch",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -593,10 +593,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:50:46Z",
-                "open_issues": 182,
+                "open_issues": 184,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36555,
+                "stars": 36558,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -827,7 +827,7 @@
             {
               "node_type": "item",
               "title": "ARCHIVED: MongoMeili - Sync MongooseJS Schemas with Meilisearch",
-              "description": null,
+              "description": "Loophole-Labs-Archive/mongomeili",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -865,7 +865,7 @@
                 "id": 629395220,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T09:52:27Z",
+                "last_commit": "2026-10-03T03:26:37Z",
                 "open_issues": 28,
                 "owner": "junghoon-vans",
                 "repo": "spring-data-meilisearch",
@@ -884,7 +884,7 @@
             {
               "node_type": "item",
               "title": "Plugin for NodeBB",
-              "description": null,
+              "description": "oplik0/nodebb-plugin-meilisearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2146,7 +2146,7 @@
             {
               "node_type": "item",
               "title": "Meilisearch",
-              "description": null,
+              "description": "meilisearch/meilisearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2159,7 +2159,7 @@
                 "open_issues": 323,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59471,
+                "stars": 59472,
                 "topics": [
                   "ai",
                   "api",
@@ -2213,7 +2213,7 @@
             {
               "node_type": "item",
               "title": "Product repository",
-              "description": null,
+              "description": "meilisearch/product",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:18:23.952Z",
+    "last_updated": "2026-10-03T04:57:03.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
