@@ -101,7 +101,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 870 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-01
 * [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 757 | 🐛 60 | 🌐 PHP | 📅 2026-09-23
-* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 681 | 🐛 8 | 🌐 Go | 📅 2026-09-01
+* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 681 | 🐛 10 | 🌐 Go | 📅 2026-09-01
 * [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 605 | 🐛 21 | 🌐 Python | 📅 2026-08-28
 * [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 431 | 🐛 69 | 🌐 Rust | 📅 2026-07-22
 * [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 345 | 🐛 78 | 🌐 C# | 📅 2026-09-16
@@ -125,13 +125,13 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 #### Platform Plugins
 
 * [Strapi](https://github.com/meilisearch/strapi-plugin-meilisearch) ⭐ 245 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-09
-* [Firestore](https://github.com/meilisearch/firestore-meilisearch/) ⭐ 90 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-30
+* [Firestore](https://github.com/meilisearch/firestore-meilisearch/) ⭐ 90 | 🐛 24 | 🌐 TypeScript | 📅 2026-10-06
 * [VuePress](https://github.com/meilisearch/vuepress-plugin-meilisearch) ⚠️ Archived
 * [Gatsby](https://github.com/meilisearch/gatsby-plugin-meilisearch/) ⚠️ Archived
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,609 | 🐛 189 | 🌐 TypeScript | 📅 2026-10-06 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,622 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-06 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 384 | 🐛 57 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -151,7 +151,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * ARCHIVED: ~~[MongoMeili](https://github.com/loophole-labs/mongomeili) ⚠️ Archived - Sync MongooseJS Schemas with Meilisearch~~
 
-* [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) ⭐ 25 | 🐛 25 | 🌐 Java | 📅 2026-10-06 - Spring Data Implementation for Meilisearch
+* [Spring Data Meilisearch](https://github.com/junghoon-vans/spring-data-meilisearch) ⭐ 25 | 🐛 27 | 🌐 Java | 📅 2026-10-06 - Spring Data Implementation for Meilisearch
 
 * [Plugin for NodeBB](https://github.com/oplik0/nodebb-plugin-meilisearch) ⭐ 15 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-05
 
@@ -205,7 +205,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Miscellaneous
 
-* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) ⭐ 532 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-30 - A plugin to establish the communication between Meilisearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) ⭐ 4,061 | 🐛 220 | 🌐 TypeScript | 📅 2026-10-05 tools (powered by Algolia)
+* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) ⭐ 532 | 🐛 55 | 🌐 TypeScript | 📅 2026-09-30 - A plugin to establish the communication between Meilisearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) ⭐ 4,061 | 🐛 220 | 🌐 TypeScript | 📅 2026-10-06 tools (powered by Algolia)
 * [docs-scraper](https://github.com/meilisearch/docs-scraper) ⭐ 347 | 🐛 25 | 🌐 Python | 📅 2026-02-10 -  A scraper tool to automatically read the content of your documentation and store it into Meilisearch.
 * [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) ⚠️ Archived - A search bar integration for all kinds of documentation
 
@@ -249,7 +249,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 * [Tenant token demo](https://github.com/meilisearch/demos/tree/main/src/tenant-token) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Learn how to use the multi-tenant token feature
 * [Typo tolerance demo](https://github.com/meilisearch/demos/tree/main/src/typo-tolerance) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Play with the typo tolerance feature and browse through a book collection
 * [Meilisearch Demos](https://github.com/meilisearch/demos) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Meilisearch demos repository
-* [Where To Watch](https://github.com/meilisearch/demo-movies) ⭐ 86 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-01 - An application to help you find streaming platforms to watch movies
+* [Where To Watch](https://github.com/meilisearch/demo-movies) ⭐ 87 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-01 - An application to help you find streaming platforms to watch movies
 * [Matching Strategy](https://matching-strategy.meilisearch.com) - See the different matching strategies in action
 
 **[⬆ back to top](#table-of-contents)**
@@ -284,7 +284,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,493 | 🐛 322 | 🌐 Rust | 📅 2026-10-05
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,500 | 🐛 322 | 🌐 Rust | 📅 2026-10-06
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 57 | 🐛 29 | 📅 2023-10-23
 
