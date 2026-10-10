@@ -71,7 +71,7 @@
                     "open_issues": 59,
                     "owner": "meilisearch",
                     "repo": "meilisearch-php",
-                    "stars": 757,
+                    "stars": 758,
                     "topics": [
                       "client",
                       "meilisearch",
@@ -592,11 +592,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T22:57:04Z",
-                "open_issues": 206,
+                "last_commit": "2026-10-09T17:04:31Z",
+                "open_issues": 205,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36661,
+                "stars": 36671,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -686,7 +686,7 @@
                 "open_issues": 0,
                 "owner": "zhuzixian520",
                 "repo": "yii2-meilisearch",
-                "stars": 117,
+                "stars": 116,
                 "topics": [
                   "meilisearch",
                   "php",
@@ -708,7 +708,7 @@
                 "id": 380803457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T18:24:44Z",
+                "last_commit": "2026-10-10T02:10:46Z",
                 "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
@@ -1401,7 +1401,7 @@
                 "open_issues": 7,
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
-                "stars": 781,
+                "stars": 780,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1512,13 +1512,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Additional tools for Laravel Scout 9+ integration with MeiliSearch",
+                "description": "Additional tools for Laravel Scout integration with MeiliSearch",
                 "homepage": null,
                 "id": 485717015,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-08T15:39:02Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-09T09:31:07Z",
+                "open_issues": 0,
                 "owner": "dwarfhq",
                 "repo": "laravel-meilitools",
                 "stars": 100,
@@ -2159,7 +2159,7 @@
                 "open_issues": 321,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59524,
+                "stars": 59531,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:03:51.486Z",
+    "last_updated": "2026-10-10T02:43:19.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
