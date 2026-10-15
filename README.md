@@ -99,21 +99,21 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### SDK
 
-* [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 868 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-14
-* [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 758 | 🐛 56 | 🌐 PHP | 📅 2026-10-14
-* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 681 | 🐛 6 | 🌐 Go | 📅 2026-10-10
-* [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 606 | 🐛 22 | 🌐 Python | 📅 2026-10-07
+* [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 868 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-14
+* [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 758 | 🐛 57 | 🌐 PHP | 📅 2026-10-14
+* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 681 | 🐛 8 | 🌐 Go | 📅 2026-10-10
+* [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 606 | 🐛 17 | 🌐 Python | 📅 2026-10-14
 * [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 431 | 🐛 70 | 🌐 Rust | 📅 2026-07-22
-* [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 345 | 🐛 77 | 🌐 C# | 📅 2026-10-07
-* [Java](https://github.com/meilisearch/meilisearch-java) ⭐ 244 | 🐛 52 | 🌐 Java | 📅 2026-10-07
-* [Ruby](https://github.com/meilisearch/meilisearch-ruby) ⭐ 225 | 🐛 39 | 🌐 Ruby | 📅 2026-10-13
+* [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 345 | 🐛 78 | 🌐 C# | 📅 2026-10-14
+* [Java](https://github.com/meilisearch/meilisearch-java) ⭐ 245 | 🐛 52 | 🌐 Java | 📅 2026-10-14
+* [Ruby](https://github.com/meilisearch/meilisearch-ruby) ⭐ 225 | 🐛 40 | 🌐 Ruby | 📅 2026-10-14
 * [Swift](https://github.com/meilisearch/meilisearch-swift) ⭐ 96 | 🐛 72 | 🌐 Swift | 📅 2026-07-07
 * [Dart](https://github.com/meilisearch/meilisearch-dart) ⭐ 87 | 🐛 59 | 🌐 Dart | 📅 2026-08-01
 
 #### Framework Integrations
 
-* [Laravel](https://github.com/laravel/scout) ⭐ 1,678 | 🐛 9 | 🌐 PHP | 📅 2026-10-13 - Official Laravel-Scout package
-* [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails) ⭐ 359 | 🐛 53 | 🌐 Ruby | 📅 2026-10-13
+* [Laravel](https://github.com/laravel/scout) ⭐ 1,678 | 🐛 8 | 🌐 PHP | 📅 2026-10-14 - Official Laravel-Scout package
+* [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails) ⭐ 359 | 🐛 52 | 🌐 Ruby | 📅 2026-10-14
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony) ⭐ 154 | 🐛 33 | 🌐 PHP | 📅 2026-08-06
 
 #### Front-End Integrations
@@ -131,7 +131,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,735 | 🐛 237 | 🌐 TypeScript | 📅 2026-10-13 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,748 | 🐛 235 | 🌐 TypeScript | 📅 2026-10-14 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 384 | 🐛 57 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -161,7 +161,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Kotlin](https://github.com/nemoengineering/meilisearch-kotlin) ⭐ 5 | 🐛 10 | 🌐 Kotlin | 📅 2025-02-26 - A Kotlin wrapper
 
-* [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-16 - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js) ⭐ 868 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-14
+* [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-16 - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js) ⭐ 868 | 🐛 41 | 🌐 TypeScript | 📅 2026-10-14
 
 * [django-meilisearch-indexer](https://github.com/Jordan-Kowal/django-meilisearch-indexer) ⚠️ Archived - Meilisearch indexer for django models and related utilities
 
@@ -197,7 +197,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### DevOps Tools
 
-* [meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) ⭐ 278 | 🐛 26 | 🌐 Mustache | 📅 2026-10-12 - Deploy on Kubernetes
+* [meilisearch-kubernetes](https://github.com/meilisearch/meilisearch-kubernetes) ⭐ 278 | 🐛 25 | 🌐 Mustache | 📅 2026-10-14 - Deploy on Kubernetes
 * [meilisearch-digitalocean](https://github.com/meilisearch/meilisearch-digitalocean) ⚠️ Archived - Deploy on DigitalOcean
 * [meilisearch-aws](https://github.com/meilisearch/meilisearch-aws) ⚠️ Archived - Deploy on AWS
 * [meilisearch-gcp](https://github.com/meilisearch/meilisearch-gcp) ⚠️ Archived - Deploy on GCP
@@ -205,15 +205,15 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Miscellaneous
 
-* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) ⭐ 533 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-30 - A plugin to establish the communication between Meilisearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) ⭐ 4,065 | 🐛 218 | 🌐 TypeScript | 📅 2026-10-13 tools (powered by Algolia)
+* [instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) ⭐ 533 | 🐛 54 | 🌐 TypeScript | 📅 2026-09-30 - A plugin to establish the communication between Meilisearch and the open-source [InstantSearch](https://github.com/algolia/instantsearch.js) ⭐ 4,064 | 🐛 221 | 🌐 TypeScript | 📅 2026-10-14 tools (powered by Algolia)
 * [docs-scraper](https://github.com/meilisearch/docs-scraper) ⭐ 346 | 🐛 25 | 🌐 Python | 📅 2026-02-10 -  A scraper tool to automatically read the content of your documentation and store it into Meilisearch.
 * [docs-searchbar.js](https://github.com/meilisearch/docs-searchbar.js) ⚠️ Archived - A search bar integration for all kinds of documentation
 
 ### Community Tools
 
-* [Meilisearch-UI](https://github.com/eyeix/meilisearch-ui) ⭐ 780 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 -  A dashboard / UI to manage instances
+* [Meilisearch-UI](https://github.com/eyeix/meilisearch-ui) ⭐ 781 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-08 -  A dashboard / UI to manage instances
 * [Laravel Site Search](https://github.com/spatie/laravel-site-search/) ⭐ 309 | 🐛 0 | 🌐 PHP | 📅 2026-06-10 - Create a full-text search index by crawling your site
-* [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) ⭐ 176 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-13 - A quick search component for Meilisearch, inspired by algolia/docsearch.
+* [meilisearch-docsearch](https://github.com/tauri-apps/meilisearch-docsearch) ⭐ 176 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-14 - A quick search component for Meilisearch, inspired by algolia/docsearch.
 * [Meiliadmin](https://github.com/kaermorchen/meiliadmin) ⭐ 110 | 🐛 20 | 🌐 JavaScript | 📅 2026-04-24 - A dashboard for Meilisearch
 * [Laravel MeiliTools](https://github.com/dwarfhq/laravel-meilitools) ⭐ 100 | 🐛 0 | 🌐 PHP | 📅 2026-10-09 - Additional tools for Laravel Scout 9+ integration
 * [Meiliweb](https://github.com/bpolaszek/meiliweb) ⭐ 69 | 🐛 2 | 🌐 Vue | 📅 2026-10-13 - Yet another dashboard / UI for Meilisearch
@@ -240,15 +240,15 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Ecommerce demo](https://github.com/meilisearch/ecommerce-demo) ⭐ 109 | 🐛 5 | 🌐 Vue | 📅 2025-09-01 - Ecommerce website using multi-select facets, range and rating filtering, and pagination
 * [SaaS demo](https://github.com/meilisearch/saas-demo) ⭐ 104 | 🐛 3 | 🌐 PHP | 📅 2025-09-01 - App search in a CRM SaaS using multi-index search and tenant tokens
-* [Meilisearch x MoMA](https://github.com/meilisearch/demos/tree/main/src/MoMA) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Search through the Museum Of Modern Art Collection
-* [Search in Nobel Prizes with Meilisearch](https://github.com/meilisearch/demos/tree/main/src/nobel-prizes) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Search through all Nobel Prize winners and their details
-* [Meilisearch finds RubyGems](https://github.com/meilisearch/demos/tree/main/src/finding-rubygems) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Find Ruby gems
-* [Finding Crates](https://github.com/meilisearch/demos/tree/main/src/finding-crates) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Find Rust crates
-* [Meilisearch finds PyPI packages](https://github.com/meilisearch/demos/tree/main/src/finding-pypi) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Find Python packages
-* [Geosearch demo](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Use Google Maps and Meilisearch to geo search across 30,000 cities
-* [Tenant token demo](https://github.com/meilisearch/demos/tree/main/src/tenant-token) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Learn how to use the multi-tenant token feature
-* [Typo tolerance demo](https://github.com/meilisearch/demos/tree/main/src/typo-tolerance) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Play with the typo tolerance feature and browse through a book collection
-* [Meilisearch Demos](https://github.com/meilisearch/demos) ⭐ 90 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Meilisearch demos repository
+* [Meilisearch x MoMA](https://github.com/meilisearch/demos/tree/main/src/MoMA) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Search through the Museum Of Modern Art Collection
+* [Search in Nobel Prizes with Meilisearch](https://github.com/meilisearch/demos/tree/main/src/nobel-prizes) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Search through all Nobel Prize winners and their details
+* [Meilisearch finds RubyGems](https://github.com/meilisearch/demos/tree/main/src/finding-rubygems) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Find Ruby gems
+* [Finding Crates](https://github.com/meilisearch/demos/tree/main/src/finding-crates) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Find Rust crates
+* [Meilisearch finds PyPI packages](https://github.com/meilisearch/demos/tree/main/src/finding-pypi) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Find Python packages
+* [Geosearch demo](https://github.com/meilisearch/demos/tree/main/src/geo-javascript) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Use Google Maps and Meilisearch to geo search across 30,000 cities
+* [Tenant token demo](https://github.com/meilisearch/demos/tree/main/src/tenant-token) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Learn how to use the multi-tenant token feature
+* [Typo tolerance demo](https://github.com/meilisearch/demos/tree/main/src/typo-tolerance) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Play with the typo tolerance feature and browse through a book collection
+* [Meilisearch Demos](https://github.com/meilisearch/demos) ⭐ 91 | 🐛 53 | 🌐 CoffeeScript | 📅 2026-05-20 - Meilisearch demos repository
 * [Where To Watch](https://github.com/meilisearch/demo-movies) ⭐ 87 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-01 - An application to help you find streaming platforms to watch movies
 * [Matching Strategy](https://matching-strategy.meilisearch.com) - See the different matching strategies in action
 
@@ -284,7 +284,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,562 | 🐛 321 | 🌐 Rust | 📅 2026-10-13
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,569 | 🐛 320 | 🌐 Rust | 📅 2026-10-14
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 57 | 🐛 29 | 📅 2023-10-23
 
@@ -320,4 +320,4 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

@@ -40,8 +40,8 @@
                     "id": 212378409,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T02:03:15Z",
-                    "open_issues": 43,
+                    "last_commit": "2026-10-14T12:41:16Z",
+                    "open_issues": 41,
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
                     "stars": 868,
@@ -67,8 +67,8 @@
                     "id": 228859550,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T02:00:50Z",
-                    "open_issues": 56,
+                    "last_commit": "2026-10-14T09:28:39Z",
+                    "open_issues": 57,
                     "owner": "meilisearch",
                     "repo": "meilisearch-php",
                     "stars": 758,
@@ -94,7 +94,7 @@
                     "language": "Go",
                     "license": "MIT",
                     "last_commit": "2026-10-10T13:27:07Z",
-                    "open_issues": 6,
+                    "open_issues": 8,
                     "owner": "meilisearch",
                     "repo": "meilisearch-go",
                     "stars": 681,
@@ -120,8 +120,8 @@
                     "id": 225885766,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T14:34:28Z",
-                    "open_issues": 22,
+                    "last_commit": "2026-10-14T12:39:29Z",
+                    "open_issues": 17,
                     "owner": "meilisearch",
                     "repo": "meilisearch-python",
                     "stars": 606,
@@ -173,8 +173,8 @@
                     "id": 266504469,
                     "language": "C#",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T12:01:38Z",
-                    "open_issues": 77,
+                    "last_commit": "2026-10-14T12:40:19Z",
+                    "open_issues": 78,
                     "owner": "meilisearch",
                     "repo": "meilisearch-dotnet",
                     "stars": 345,
@@ -200,11 +200,11 @@
                     "id": 237707489,
                     "language": "Java",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T07:48:35Z",
+                    "last_commit": "2026-10-14T16:13:50Z",
                     "open_issues": 52,
                     "owner": "meilisearch",
                     "repo": "meilisearch-java",
-                    "stars": 244,
+                    "stars": 245,
                     "topics": [
                       "client",
                       "meilisearch",
@@ -225,8 +225,8 @@
                     "id": 222446809,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T14:44:13Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-10-14T14:44:56Z",
+                    "open_issues": 40,
                     "owner": "meilisearch",
                     "repo": "meilisearch-ruby",
                     "stars": 225,
@@ -311,8 +311,8 @@
                     "id": 62261287,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T13:50:02Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-14T18:47:59Z",
+                    "open_issues": 8,
                     "owner": "laravel",
                     "repo": "scout",
                     "stars": 1678,
@@ -337,8 +337,8 @@
                     "id": 338307278,
                     "language": "Ruby",
                     "license": "MIT",
-                    "last_commit": "2026-10-13T16:34:17Z",
-                    "open_issues": 53,
+                    "last_commit": "2026-10-14T13:14:31Z",
+                    "open_issues": 52,
                     "owner": "meilisearch",
                     "repo": "meilisearch-rails",
                     "stars": 359,
@@ -592,11 +592,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T09:00:51Z",
-                "open_issues": 237,
+                "last_commit": "2026-10-14T11:37:37Z",
+                "open_issues": 235,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36735,
+                "stars": 36748,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -1181,8 +1181,8 @@
                     "id": 276347473,
                     "language": "Mustache",
                     "license": "MIT",
-                    "last_commit": "2026-10-12T09:46:58Z",
-                    "open_issues": 26,
+                    "last_commit": "2026-10-14T13:34:03Z",
+                    "open_issues": 25,
                     "owner": "meilisearch",
                     "repo": "meilisearch-kubernetes",
                     "stars": 278,
@@ -1401,7 +1401,7 @@
                 "open_issues": 7,
                 "owner": "eyeix",
                 "repo": "meilisearch-ui",
-                "stars": 780,
+                "stars": 781,
                 "topics": [
                   "admin",
                   "admin-dashboard",
@@ -1464,8 +1464,8 @@
                 "id": 594897696,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T14:00:30Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-14T17:58:03Z",
+                "open_issues": 13,
                 "owner": "tauri-apps",
                 "repo": "meilisearch-docsearch",
                 "stars": 176,
@@ -1917,7 +1917,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -1940,7 +1940,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -1963,7 +1963,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -1986,7 +1986,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -2009,7 +2009,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -2032,7 +2032,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -2055,7 +2055,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -2078,7 +2078,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -2101,7 +2101,7 @@
             "open_issues": 53,
             "owner": "meilisearch",
             "repo": "demos",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "meilisearch"
             ]
@@ -2155,11 +2155,11 @@
                 "id": 130688011,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T15:51:39Z",
-                "open_issues": 321,
+                "last_commit": "2026-10-14T17:57:42Z",
+                "open_issues": 320,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59562,
+                "stars": 59569,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:08:41.302Z",
+    "last_updated": "2026-10-15T01:48:21.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
