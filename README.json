@@ -97,7 +97,7 @@
                     "open_issues": 8,
                     "owner": "meilisearch",
                     "repo": "meilisearch-go",
-                    "stars": 681,
+                    "stars": 680,
                     "topics": [
                       "client",
                       "go",
@@ -146,7 +146,7 @@
                     "language": "Rust",
                     "license": "MIT",
                     "last_commit": "2026-07-22T08:24:42Z",
-                    "open_issues": 70,
+                    "open_issues": 71,
                     "owner": "meilisearch",
                     "repo": "meilisearch-rust",
                     "stars": 431,
@@ -315,7 +315,7 @@
                     "open_issues": 8,
                     "owner": "laravel",
                     "repo": "scout",
-                    "stars": 1677,
+                    "stars": 1678,
                     "topics": [
                       "algolia",
                       "laravel",
@@ -592,11 +592,11 @@
                 "id": 234739976,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T13:28:07Z",
-                "open_issues": 245,
+                "last_commit": "2026-10-16T19:25:07Z",
+                "open_issues": 255,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36765,
+                "stars": 36772,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -708,8 +708,8 @@
                 "id": 380803457,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T19:50:19Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-16T16:10:45Z",
+                "open_issues": 0,
                 "owner": "sanders41",
                 "repo": "meilisearch-python-sdk",
                 "stars": 98,
@@ -1464,11 +1464,11 @@
                 "id": 594897696,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T17:58:03Z",
+                "last_commit": "2026-10-16T16:52:57Z",
                 "open_issues": 13,
                 "owner": "tauri-apps",
                 "repo": "meilisearch-docsearch",
-                "stars": 176,
+                "stars": 175,
                 "topics": [
                   "autocomplete",
                   "docs",
@@ -1546,7 +1546,7 @@
                 "open_issues": 2,
                 "owner": "bpolaszek",
                 "repo": "meiliweb",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "facets",
                   "full-text-search",
@@ -1891,7 +1891,7 @@
             "open_issues": 3,
             "owner": "meilisearch",
             "repo": "saas-demo",
-            "stars": 104,
+            "stars": 105,
             "topics": [
               "crm",
               "laravel",
@@ -2159,7 +2159,7 @@
                 "open_issues": 321,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59577,
+                "stars": 59584,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:37:53.233Z",
+    "last_updated": "2026-10-17T01:30:57.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
