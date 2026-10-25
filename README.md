@@ -99,7 +99,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### SDK
 
-* [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 869 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-23
+* [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 869 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-23
 * [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 761 | 🐛 55 | 🌐 PHP | 📅 2026-10-21
 * [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 680 | 🐛 3 | 🌐 Go | 📅 2026-10-19
 * [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 607 | 🐛 22 | 🌐 Python | 📅 2026-10-14
@@ -112,7 +112,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 #### Framework Integrations
 
-* [Laravel](https://github.com/laravel/scout) ⭐ 1,680 | 🐛 9 | 🌐 PHP | 📅 2026-10-14 - Official Laravel-Scout package
+* [Laravel](https://github.com/laravel/scout) ⭐ 1,680 | 🐛 7 | 🌐 PHP | 📅 2026-10-24 - Official Laravel-Scout package
 * [Ruby on Rails](https://github.com/meilisearch/meilisearch-rails) ⭐ 359 | 🐛 52 | 🌐 Ruby | 📅 2026-10-14
 * [Symfony](https://github.com/meilisearch/meilisearch-symfony) ⭐ 154 | 🐛 33 | 🌐 PHP | 📅 2026-08-06
 
@@ -131,7 +131,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,893 | 🐛 101 | 🌐 TypeScript | 📅 2026-10-23 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 36,931 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-23 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 384 | 🐛 57 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -161,7 +161,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Kotlin](https://github.com/nemoengineering/meilisearch-kotlin) ⭐ 5 | 🐛 10 | 🌐 Kotlin | 📅 2025-02-26 - A Kotlin wrapper
 
-* [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-16 - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js) ⭐ 869 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-23
+* [Nest-MeiliSearch](https://github.com/Console45/nest-meilisearch) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2022-10-16 - A NestJS wrapper for the [JavaScript integration](https://github.com/meilisearch/meilisearch-js) ⭐ 869 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-23
 
 * [django-meilisearch-indexer](https://github.com/Jordan-Kowal/django-meilisearch-indexer) ⚠️ Archived - Meilisearch indexer for django models and related utilities
 
@@ -286,7 +286,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,642 | 🐛 319 | 🌐 Rust | 📅 2026-10-23
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,653 | 🐛 319 | 🌐 Rust | 📅 2026-10-23
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 57 | 🐛 29 | 📅 2023-10-23
 
@@ -322,4 +322,4 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

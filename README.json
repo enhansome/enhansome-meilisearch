@@ -41,7 +41,7 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-23T17:45:02Z",
-                    "open_issues": 42,
+                    "open_issues": 43,
                     "owner": "meilisearch",
                     "repo": "meilisearch-js",
                     "stars": 869,
@@ -311,8 +311,8 @@
                     "id": 62261287,
                     "language": "PHP",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T18:47:59Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-24T14:39:49Z",
+                    "open_issues": 7,
                     "owner": "laravel",
                     "repo": "scout",
                     "stars": 1680,
@@ -593,10 +593,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-23T16:10:48Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "medusajs",
                 "repo": "medusa",
-                "stars": 36893,
+                "stars": 36931,
                 "topics": [
                   "ai-coding",
                   "ai-tools",
@@ -2159,7 +2159,7 @@
                 "open_issues": 319,
                 "owner": "meilisearch",
                 "repo": "meilisearch",
-                "stars": 59642,
+                "stars": 59653,
                 "topics": [
                   "ai",
                   "api",
@@ -2248,7 +2248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:56:24.492Z",
+    "last_updated": "2026-10-25T01:36:00.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Meilisearch resources",
