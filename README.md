@@ -101,7 +101,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [JavaScript](https://github.com/meilisearch/meilisearch-js) ⭐ 870 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-18
 * [PHP](https://github.com/meilisearch/meilisearch-php) ⭐ 760 | 🐛 49 | 🌐 PHP | 📅 2026-11-17
-* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 682 | 🐛 2 | 🌐 Go | 📅 2026-11-20
+* [Golang](https://github.com/meilisearch/meilisearch-go) ⭐ 683 | 🐛 2 | 🌐 Go | 📅 2026-11-20
 * [Python](https://github.com/meilisearch/meilisearch-python) ⭐ 608 | 🐛 30 | 🌐 Python | 📅 2026-11-12
 * [Rust](https://github.com/meilisearch/meilisearch-rust) ⭐ 431 | 🐛 73 | 🌐 Rust | 📅 2026-11-12
 * [.Net](https://github.com/meilisearch/meilisearch-dotnet) ⭐ 344 | 🐛 80 | 🌐 C# | 📅 2026-11-11
@@ -131,7 +131,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Community Integrations
 
-* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 37,354 | 🐛 107 | 🌐 TypeScript | 📅 2026-11-21 - Plugin for Medusa
+* [Medusa](https://github.com/medusajs/medusa/tree/master/packages/medusa-plugin-meilisearch) ⭐ 37,375 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-21 - Plugin for Medusa
 
 * [meilisync](https://github.com/meilisync/meilisync) ⭐ 384 | 🐛 57 | 🌐 Python | 📅 2026-05-17 - Real time data sync from MySQL, PostgreSQL, or MongoDB
 
@@ -139,7 +139,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 * [Yii2](https://github.com/zhuzixian520/yii2-meilisearch) ⭐ 116 | 🐛 0 | 🌐 PHP | 📅 2022-02-21 - Yii2 framework extension
 
-* [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2026-11-21 - An asynchronous Python client
+* [Async Python SDK](https://github.com/sanders41/meilisearch-python-async) ⭐ 98 | 🐛 1 | 🌐 Python | 📅 2026-11-23 - An asynchronous Python client
 
 * [django-meili](https://github.com/ikollipara/django-meili) ⭐ 85 | 🐛 1 | 🌐 Python | 📅 2026-02-25 - Django integration with Meilisearch
 
@@ -286,7 +286,7 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ### Repositories
 
-* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,953 | 🐛 321 | 🌐 Rust | 📅 2026-11-20
+* [Meilisearch](https://github.com/meilisearch/Meilisearch) ⭐ 59,965 | 🐛 322 | 🌐 Rust | 📅 2026-11-20
 * [milli](https://github.com/meilisearch/milli/) ⚠️ Archived - Meilisearch's core engine
 * [Product repository](https://github.com/meilisearch/product) ⭐ 57 | 🐛 29 | 📅 2023-10-23
 
@@ -322,4 +322,4 @@ Please take a look at the [Contribution Guidelines](https://github.com/meilisear
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
